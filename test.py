@@ -53,7 +53,7 @@ def build_test(modelId):
 
 def run_test(modelId):
 
-  subprocess.run(["python3", "./parsedict.py", "-i", "./tests/" + modelId + ".test", "-o", "./tests/" + modelId + ".inflected"])
+  subprocess.call(["python3", "./parsedict.py", "-i", "./tests/" + modelId + ".test", "-o", "./tests/" + modelId + ".inflected"])
   return 0
 
 
