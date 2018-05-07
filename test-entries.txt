@@ -1,0 +1,90 @@
+#Codis 200
+a|f|201
+abraç|m|202
+casa|f|203
+coca|f|204
+paga|f|205
+aigua|f|206
+pasqua|f|206
+platja|f|207
+caça|f|208
+be|m|209
+aglà|m|210
+bè|m|210
+acció|f|211
+arruí|m|212
+aerotrèn|m|213
+espín|m|214
+aiguarràs|m|215
+abús|m|216
+nas|m|217
+afàs|m|218
+abscés|m|219
+país|m|220
+gaús|m|221
+abdomen|m|222
+aborigen|m|223
+creixen|m|224
+assaig|m|226
+enuig|m|228
+desig|m|229
+abast|m|230
+ase|m|231
+terme|m|232
+# Codis 300
+alt|adj|301
+baix|adj|302
+guapo|adj|303
+pratenc|adj|304
+amazic|adj|305
+pròdig|adj|306
+oblic|adj|307
+maco|adj|308
+mengo|adj|309
+agut|adj|310
+feliç|adj|311
+dolç|adj|312
+roig|adj|313
+lleig|adj|314
+mig|adj|315
+just|adj|317
+anàleg|adj|318
+actor|mif|319
+gal|adj|321
+amebeu|adj|322
+viu|adj|323
+meu|adj|324
+ambigu|adj|325
+vague|adj|326
+abjecte|adj|327
+flonjo|adj|328
+bla|adj|340
+català|adj|341
+masnoví|adj|342
+bilbaí|adj|343
+ros|adj|350
+rossellonès|adj|351
+joiós|adj|352
+fresc|adj|380
+# Codis 500
+abans|adv|500
+abaixallengües|m|511
+# Codis 600
+# falta tots els casos 666
+# Models verbals
+#Model I
+cantar|v|26
+#Model IIa
+témer|v|70
+#ésser|v|71
+ser|v|71
+#Model IIb
+#perdre|v|1
+dur|v|60
+#Model IIIa
+servir|v|112
+#Model IIIb
+dormir|v|11
+#Irregulars
+anar|v|16
+estar|v|72
