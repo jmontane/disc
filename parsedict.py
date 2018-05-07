@@ -73,6 +73,10 @@ def inflection(fields, models):
   
   inflectedforms = []
 
+  # En cas de tenir un verb pronominal, suprimim el pronom del lema abans de flexionar-lo
+  if ((pos == "v." or pos == "v") and re.match(".*'s$|.*-se$",lemma)):
+     lemma = re.sub ("'s$|-se$","",lemma)
+
   # Variable de control
   flag = 0
 
