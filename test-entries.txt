@@ -46,7 +46,7 @@ feliç|adj|311
 dolç|adj|312
 roig|adj|313
 lleig|adj|314
-mig|adj|315
+mig|adj|316
 just|adj|317
 anàleg|adj|318
 actor|mif|319
