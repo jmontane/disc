@@ -4559,7 +4559,7 @@ aparençar|v.|33
 aparent|adj.|201
 aparentar|v.|26
 aparentment|adv.|500
-aparer|v.|604
+aparer|v.|194
 apariament|m.|201
 apariar|v.|48
 apariat|m.|201
