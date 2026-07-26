@@ -6,12 +6,12 @@ ar ada ar VMP00SF0 # dada
 ar ats ar VMP00PM0 # dats
 ar ades ar VMP00PF0 # dades
 ar o ar VMIP1S00 # do
-ar as ar VMIP2S00 # das
-ar a ar VMIP3S00 # da
 ar am ar VMIP1P0B # dam
 ar em ar VMIP1P00 # dem
+ar as ar VMIP2S00 # das
 ar au ar VMIP2P0B # dau
 ar eu ar VMIP2P00 # deu
+ar a ar VMIP3S00 # da
 ar an ar VMIP3P00 # dan
 ar ava ar VMII1S00 # dava
 ar àvem ar VMII1P00 # dàvem
@@ -38,10 +38,10 @@ ar aríeu ar VMIC2P00 # daríeu
 ar aria ar VMIC3S00 # daria
 ar arien ar VMIC3P00 # darien
 ar e ar VMSP1S00 # de
-ar es ar VMSP2S00 # des
-ar e ar VMSP3S00 # de
 ar em ar VMSP1P00 # dem
+ar es ar VMSP2S00 # des
 ar eu ar VMSP2P00 # deu
+ar e ar VMSP3S00 # de
 ar en ar VMSP3P00 # den
 ar es ar VMSI1S01 # des
 ar ara ar VMSI1S03 # dara

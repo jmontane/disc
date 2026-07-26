@@ -6,9 +6,9 @@ enyir enyida enyir VMP00SF0 # tenyida
 enyir enyits enyir VMP00PM0 # tenyits
 enyir enyides enyir VMP00PF0 # tenyides
 enyir enyeixo enyir VMIP1S0C # tenyeixo
+enyir enyisc enyir VMIP1S0V # tenyisc
 enyir enyeixi enyir VMIP1S0S # tenyeixi
 enyir enyixo enyir VMIP1S0N # tenyixo
-enyir enyisc enyir VMIP1S0V # tenyisc
 enyir enyesc enyir VMIP1S0Z # tenyesc
 enyir iny enyir VMIP1S0Z # tiny
 enyir enyim enyir VMIP1P00 # tenyim

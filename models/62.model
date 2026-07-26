@@ -9,12 +9,12 @@ obrir obro obrir VMIP1S0C # entreobro
 obrir òbric obrir VMIP1S0V # entreòbric
 obrir obr obrir VMIP1S0B # entreobr
 obrir obrim obrir VMIP1P00 # entreobrim
-obrir obres obrir VMIP2S00 # entreobres
 obrir obrs obrir VMIP2S0B # entreobrs
+obrir obres obrir VMIP2S00 # entreobres
 obrir obris obrir VMIP2S0Z # entreobris
 obrir obriu obrir VMIP2P00 # entreobriu
-obrir obre obrir VMIP3S00 # entreobre
 obrir obr obrir VMIP3S0B # entreobr
+obrir obre obrir VMIP3S00 # entreobre
 obrir obri obrir VMIP3S0Z # entreobri
 obrir obren obrir VMIP3P00 # entreobren
 obrir obrin obrir VMIP3P0Z # entreobrin

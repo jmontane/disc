@@ -39,12 +39,12 @@ opir opiria opir VMIC3S00 # escopiria
 opir opirien opir VMIC3P00 # escopirien
 opir upa opir VMSP1S0V # escupa
 opir upi opir VMSP1S0Y # escupi
-opir opim opir VMSP1P00 # escopim
 opir opiguem opir VMSP1P0B # escopiguem
+opir opim opir VMSP1P00 # escopim
 opir upes opir VMSP2S0V # escupes
 opir upis opir VMSP2S0Y # escupis
-opir opiu opir VMSP2P00 # escopiu
 opir opigueu opir VMSP2P0B # escopigueu
+opir opiu opir VMSP2P00 # escopiu
 opir upa opir VMSP3S0V # escupa
 opir upi opir VMSP3S0Y # escupi
 opir upen opir VMSP3P0V # escupen

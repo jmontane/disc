@@ -10,9 +10,9 @@ ir its ir VMP00PM0 # acomplits
 ir ertes ir VMP00PFC # acomplertes
 ir ides ir VMP00PF0 # acomplides
 ir eixo ir VMIP1S0C # acompleixo
+ir isc ir VMIP1S0V # acomplisc
 ir eixi ir VMIP1S0S # acompleixi
 ir ixo ir VMIP1S0N # acomplixo
-ir isc ir VMIP1S0V # acomplisc
 ir esc ir VMIP1S0Z # acomplesc
 ir im ir VMIP1P00 # acomplim
 ir ixes ir VMIP2S0V # acomplixes

@@ -7,7 +7,6 @@ r ts ar VMP00PM0 # cantats
 r des ar VMP00PF0 # cantades
 ar o ar VMIP1S0C # canto
 ar e ar VMIP1S0V # cante
-ar i ar VMIP1S0S # canti
 ar 0 [^nls]ar VMIP1S0B # cant
 ar 0 [^n]nar VMIP1S0B # ALT:????
 ar 0 [^·]lar VMIP1S0B # ALT:????
@@ -15,6 +14,7 @@ ar 0 [^s]sar VMIP1S0B # ALT:pos
 ·lar 0 l·lar VMIP1S0B # ALT:instal
 sar 0 ssar VMIP1S0B # ALT:pas
 nar 0 nnar VMIP1S0B # ALT:nan
+ar i ar VMIP1S0S # canti
 r m ar VMIP1P0B # cantam
 ar em ar VMIP1P00 # cantem
 ar es ar VMIP2S00 # cantes

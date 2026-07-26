@@ -6,9 +6,9 @@ rir erta rir VMP00SF0 # coberta
 rir erts rir VMP00PM0 # coberts
 rir ertes rir VMP00PF0 # cobertes
 rir reixo rir VMIP1S0C # cobreixo
+rir risc rir VMIP1S0V # cobrisc
 rir reixi rir VMIP1S0S # cobreixi
 rir rixo rir VMIP1S0N # cobrixo
-rir risc rir VMIP1S0V # cobrisc
 rir resc rir VMIP1S0Z # cobresc
 rir rim rir VMIP1P00 # cobrim
 rir rixes rir VMIP2S0V # cobrixes

@@ -41,14 +41,14 @@ orir uira orir VMSP1S0V # muira
 orir uiri orir VMSP1S0B # muiri
 orir ori orir VMSP1S0Y # mori
 orir ora orir VMSP1S0Y # mora
-orir orim orir VMSP1P00 # morim
 orir origuem orir VMSP1P0B # moriguem
+orir orim orir VMSP1P00 # morim
 orir uires orir VMSP2S0V # muires
 orir uiris orir VMSP2S0B # muiris
 orir oris orir VMSP2S0Y # moris
 orir ores orir VMSP2S0Y # mores
-orir oriu orir VMSP2P00 # moriu
 orir origueu orir VMSP2P0B # morigueu
+orir oriu orir VMSP2P00 # moriu
 orir uira orir VMSP3S0V # muira
 orir uiri orir VMSP3S0B # muiri
 orir ori orir VMSP3S0Y # mori
@@ -73,8 +73,8 @@ orir orissin orir VMSI3P02 # morissin
 orir oriren orir VMSI3P03 # moriren
 orir orissen orir VMSI3P05 # morissen
 orir orim orir VMM01P00 # morim
-orir or orir VMM02S00 # mor
 orir uir orir VMM02S0V # muir
+orir or orir VMM02S00 # mor
 orir oriu orir VMM02P00 # moriu
 orir uira orir VMM03S0V # muira
 orir ori orir VMM03S0Y # mori

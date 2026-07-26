@@ -6,9 +6,9 @@ r da ir VMP00SF0 # servida
 r ts ir VMP00PM0 # servits
 r des ir VMP00PF0 # servides
 ir eixo ir VMIP1S0C # serveixo
+r sc ir VMIP1S0V # servisc
 ir eixi ir VMIP1S0S # serveixi
 ir ixo ir VMIP1S0N # servixo
-r sc ir VMIP1S0V # servisc
 ir esc ir VMIP1S0Z # servesc
 r m ir VMIP1P00 # servim
 r xes ir VMIP2S0V # servixes

@@ -38,12 +38,12 @@ dir diria dir VMIC3S00 # pudiria
 dir dirien dir VMIC3P00 # pudirien
 dir da dir VMSP1S0V # puda
 dir di dir VMSP1S0Y # pudi
-dir dim dir VMSP1P00 # pudim
 dir diguem dir VMSP1P0B # pudiguem
+dir dim dir VMSP1P00 # pudim
 dir des dir VMSP2S0V # pudes
 dir dis dir VMSP2S0Y # pudis
-dir diu dir VMSP2P00 # pudiu
 dir digueu dir VMSP2P0B # pudigueu
+dir diu dir VMSP2P00 # pudiu
 dir da dir VMSP3S0V # puda
 dir di dir VMSP3S0Y # pudi
 dir den dir VMSP3P0V # puden

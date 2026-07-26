@@ -6,10 +6,10 @@ ir ida ir VMP00SF0 # consentida
 ir its ir VMP00PM0 # consentits
 ir ides ir VMP00PF0 # consentides
 ir eixo ir VMIP1S0C # consenteixo
-ir eixi ir VMIP1S0S # consenteixi
-ir ixo ir VMIP1S0N # consentixo
 ir o ir VMIP1S0C # consento
 ir isc ir VMIP1S0V # consentisc
+ir eixi ir VMIP1S0S # consenteixi
+ir ixo ir VMIP1S0N # consentixo
 ir 0 ir VMIP1S0Z # consent
 ir esc ir VMIP1S0Z # consentesc
 ir im ir VMIP1P00 # consentim
