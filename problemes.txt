@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 28 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 29 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
@@ -59,6 +59,10 @@ MODEL 101 (Lema: 'pruir'):
 
 MODEL 115 (Lema: 'tenir'):
   - Formes que ¿FALTEN? (4): tenguessen, tenguesses, tenguéssem, tenguésseu
+
+MODEL 192 (Lema: 'argüir'):
+  - Formes que ¿FALTEN? (22): argüia, argüida, argüides, argüien, argüies, argüiguem, argüigueu, argüim, argüira, argüiren, argüires, argüisca, argüisquen, argüisques, argüissen, argüisses, argüissin, argüissis, argüit, argüits, argüiu, argüixen
+  - Formes que ¿SOBREN? (23): arguïa, arguïda, arguïdes, arguïen, arguïes, arguïguem, arguïgueu, arguïm, arguïra, arguïren, arguïres, arguïsca, arguïsquen, arguïsques, arguïssen, arguïsses, arguïssin, arguïssis, arguït, arguïts, arguïu, arguïx, arguïxen
 
 MODEL 65 (Lema: 'entreveure'):
   - Formes que ¿FALTEN? (5): entrevessen, entrevesses, entrevèrem, entrevéssem, entrevésseu

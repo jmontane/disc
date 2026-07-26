@@ -5299,7 +5299,7 @@ argue|m.|231
 arguïble|adj.|201
 arguïció|f.|211
 arguïdor|mif.|301
-argüir|v.|112
+argüir|v.|192
 argument|m.|201
 argumentació|f.|211
 argumentador|mif.|301
@@ -55740,7 +55740,7 @@ redactor|adj.~mif.|301
 redall|m.|201
 redallar|v.|26
 redargució|f.|211
-redargüir|v.|112
+redargüir|v.|192
 redelmar|v.|26
 redelme|m.|201
 redelmer|m.|201
