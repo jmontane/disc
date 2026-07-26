@@ -15,10 +15,10 @@ ir iu ir VMIP3S00 # contradiu
 ir iuen ir VMIP3P00 # contradiuen
 ir eia ir VMII1S00 # contradeia
 ir èiem ir VMII1P00 # contradèiem
-ir éiem ir VMII1P00 # contradéiem
+#ir éiem ir VMII1P00 # contradéiem
 ir eies ir VMII2S00 # contradeies
 ir èieu ir VMII2P00 # contradèieu
-ir éieu ir VMII2P00 # contradéieu
+#ir éieu ir VMII2P00 # contradéieu
 ir eia ir VMII3S00 # contradeia
 ir eien ir VMII3P00 # contradeien
 ir iguí ir VMIS1S00 # contradiguí

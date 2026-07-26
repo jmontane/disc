@@ -2,7 +2,7 @@
 endre endre endre VMN00000 # corprendre
 endre enent endre VMG00000 # corprenent
 endre ès endre VMP00SM0 # corprès
-endre és endre VMP00SM0 # corprés
+#endre és endre VMP00SM0 # corprés
 endre esa endre VMP00SF0 # corpresa
 endre esos endre VMP00PM0 # corpresos
 endre eses endre VMP00PF0 # corpreses
@@ -11,7 +11,7 @@ endre enem endre VMIP1P00 # corprenem
 endre ens endre VMIP2S00 # corprens
 endre eneu endre VMIP2P00 # corpreneu
 endre èn endre VMIP3S00 # corprèn
-endre én endre VMIP3S00 # corprén
+#endre én endre VMIP3S00 # corprén
 endre enen endre VMIP3P00 # corprenen
 endre enia endre VMII1S00 # corprenia
 endre eníem endre VMII1P00 # corpreníem
@@ -65,7 +65,7 @@ endre engueren endre VMSI3P03 # corprengueren
 endre enguessen endre VMSI3P05 # corprenguessen
 endre enguem endre VMM01P00 # corprenguem
 endre èn endre VMM02S00 # corprèn
-endre én endre VMM02S00 # corprén
+#endre én endre VMM02S00 # corprén
 endre eneu endre VMM02P00 # corpreneu
 endre enga endre VMM03S0V # corprenga
 endre engui endre VMM03S0Y # corprengui

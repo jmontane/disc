@@ -23,10 +23,10 @@
 [ae]ure euen re VMIP3P00 # abstreuen
 [ae]ure eia re VMII1S00 # abstreia
 [ae]ure èiem re VMII1P00 # abstrèiem
-[ae]ure éiem re VMII1P00 # abstréiem
+#[ae]ure éiem re VMII1P00 # abstréiem
 [ae]ure eies re VMII2S00 # abstreies
 [ae]ure èieu re VMII2P00 # abstrèieu
-[ae]ure éieu re VMII2P00 # abstréieu
+#[ae]ure éieu re VMII2P00 # abstréieu
 [ae]ure eia re VMII3S00 # abstreia
 [ae]ure eien re VMII3P00 # abstreien
 [ae]ure aguí re VMIS1S00 # abstraguí

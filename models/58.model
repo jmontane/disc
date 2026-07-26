@@ -15,10 +15,10 @@ ir iu dir VMIP3S00 # diu
 ir iuen dir VMIP3P00 # diuen
 ir eia dir VMII1S00 # deia
 ir èiem dir VMII1P00 # dèiem
-ir éiem dir VMII1P00 # déiem
+#ir éiem dir VMII1P00 # déiem
 ir eies dir VMII2S00 # deies
 ir èieu dir VMII2P00 # dèieu
-ir éieu dir VMII2P00 # déieu
+#ir éieu dir VMII2P00 # déieu
 ir eia dir VMII3S00 # deia
 ir eien dir VMII3P00 # deien
 ir iguí dir VMIS1S00 # diguí

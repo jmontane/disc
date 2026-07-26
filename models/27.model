@@ -10,7 +10,7 @@ endre enem endre VMIP1P00 # carvenem
 endre ens endre VMIP2S00 # carvens
 endre eneu endre VMIP2P00 # carveneu
 endre èn endre VMIP3S00 # carvèn
-endre én endre VMIP3S00 # carvén
+#endre én endre VMIP3S00 # carvén
 endre enen endre VMIP3P00 # carvenen
 endre enia endre VMII1S00 # carvenia
 endre eníem endre VMII1P00 # carveníem
@@ -64,7 +64,7 @@ endre engueren endre VMSI3P03 # carvengueren
 endre enguessen endre VMSI3P05 # carvenguessen
 endre enguem endre VMM01P00 # carvenguem
 endre èn endre VMM02S00 # carvèn
-endre én endre VMM02S00 # carvén
+#endre én endre VMM02S00 # carvén
 endre eneu endre VMM02P00 # carveneu
 endre enga endre VMM03S0V # carvenga
 endre engui endre VMM03S0Y # carvengui

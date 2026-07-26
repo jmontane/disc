@@ -4,66 +4,34 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 44 models verbals que no coincideixen amb el seu fitxer .test:
-
-MODEL 45 (Lema: 'corprendre'):
-  - Formes que ¿SOBREN? (2): corprén, corprés
-
-MODEL 74 (Lema: 'fènyer'):
-  - Formes que ¿SOBREN? (1): fényer
-
-MODEL 41 (Lema: 'contradir'):
-  - Formes que ¿SOBREN? (2): contradéiem, contradéieu
+S'han trobat 28 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
 
-MODEL 40 (Lema: 'constrènyer'):
-  - Formes que ¿SOBREN? (1): constrényer
-
 MODEL 105 (Lema: 'reeixir'):
   - Formes que ¿FALTEN? (4): reïsquiren, reïsquires, reïsquírem, reïsquíreu
   - Formes que ¿SOBREN? (5): reeixira, reïsqui, reïsquin, reïsquis, reïsqué
-
-MODEL 10 (Lema: 'admetre'):
-  - Formes que ¿SOBREN? (1): admés
 
 MODEL 85 (Lema: 'voler'):
   - Formes que ¿SOBREN? (6): vullc, vullga, vullguem, vullguen, vullgues, vullgueu
 
 MODEL 123 (Lema: 'veure'):
   - Formes que ¿FALTEN? (2): vessen, vesses
-  - Formes que ¿SOBREN? (3): véiem, véieu, véu
-
-MODEL 28 (Lema: 'caure'):
-  - Formes que ¿SOBREN? (2): quéiem, quéieu
-
-MODEL 58 (Lema: 'dir'):
-  - Formes que ¿SOBREN? (2): déiem, déieu
+  - Formes que ¿SOBREN? (1): véu
 
 MODEL 54 (Lema: 'deseixir'):
   - Formes que ¿FALTEN? (4): desisquiren, desisquires, desisquírem, desisquíreu
   - Formes que ¿SOBREN? (9): deseixiguem, deseixigueu, deseixira, desisquessen, desisquesses, desisqué, desisqués, desisquéssem, desisquésseu
 
-MODEL 21 (Lema: 'atendre'):
-  - Formes que ¿SOBREN? (1): atés
-
 MODEL 90 (Lema: 'renàixer'):
   - Formes que ¿FALTEN? (4): renaixessen, renaixesses, renaixéssem, renaixésseu
 
-MODEL 108 (Lema: 'riure'):
-  - Formes que ¿SOBREN? (2): réiem, réieu
-
-MODEL 20 (Lema: 'asseure'):
-  - Formes que ¿SOBREN? (2): asséiem, asséieu
-
 MODEL 42 (Lema: 'contrafer'):
   - Formes que ¿FALTEN? (5): contrafés, contraféssem, contrafésseu, contraféssim, contraféssiu
-  - Formes que ¿SOBREN? (2): contraféiem, contraféieu
 
 MODEL 17 (Lema: 'aparèixer'):
   - Formes que ¿FALTEN? (25): apareixo, aparesc, aparesca, aparescuda, aparescudes, aparescut, aparescuts, aparesquem, aparesquen, aparesqueren, aparesqueres, aparesques, aparesquessin, aparesquessis, aparesqueu, aparesqui, aparesquin, aparesquis, aparesqué, aparesquérem, aparesquéreu, aparesqués, aparesquéssim, aparesquéssiu, aparesquí
-  - Formes que ¿SOBREN? (1): aparéixer
 
 MODEL 114 (Lema: 'teixir'):
   - Formes que ¿FALTEN? (1): tixo
@@ -72,12 +40,8 @@ MODEL 13 (Lema: 'avenir'):
   - Formes que ¿FALTEN? (4): avenguessen, avenguesses, avenguéssem, avenguésseu
   - Formes que ¿SOBREN? (1): avindre
 
-MODEL 37 (Lema: 'conèixer'):
-  - Formes que ¿SOBREN? (1): conéixer
-
 MODEL 82 (Lema: 'irèixer'):
   - Formes que ¿FALTEN? (4): ireixessen, ireixesses, ireixéssem, ireixésseu
-  - Formes que ¿SOBREN? (1): iréixer
 
 MODEL 78 (Lema: 'fregir'):
   - Formes que ¿SOBREN? (7): frigc, frigga, frigguen, friggues, frigi, frigin, frigis
@@ -90,49 +54,33 @@ MODEL 71 (Lema: 'ser'):
   - Formes que ¿FALTEN? (4): set, seta, setes, sets
   - Formes que ¿SOBREN? (2): só, sóc
 
-MODEL 43 (Lema: 'convèncer'):
-  - Formes que ¿SOBREN? (1): convéncer
-
-MODEL 19 (Lema: 'aprehendre'):
-  - Formes que ¿SOBREN? (2): aprehén, aprehés
-
 MODEL 101 (Lema: 'pruir'):
   - Formes que ¿SOBREN? (4): pruíssem, pruísseu, pruïssen, pruïsses
 
 MODEL 115 (Lema: 'tenir'):
   - Formes que ¿FALTEN? (4): tenguessen, tenguesses, tenguéssem, tenguésseu
 
-MODEL 83 (Lema: 'jaure'):
-  - Formes que ¿SOBREN? (2): jéiem, jéieu
-
 MODEL 65 (Lema: 'entreveure'):
   - Formes que ¿FALTEN? (5): entrevessen, entrevesses, entrevèrem, entrevéssem, entrevésseu
-  - Formes que ¿SOBREN? (3): entrevéiem, entrevéieu, entrevéu
+  - Formes que ¿SOBREN? (1): entrevéu
 
 MODEL 5 (Lema: 'acollir'):
   - Formes que ¿FALTEN? (2): acolliguem, acolligueu
 
 MODEL 4 (Lema: 'abstraure'):
-  - Formes que ¿SOBREN? (5): abstrega, abstreguen, abstregues, abstréiem, abstréieu
+  - Formes que ¿SOBREN? (3): abstrega, abstreguen, abstregues
 
 MODEL 190 (Lema: 'nàixer'):
   - Formes que ¿FALTEN? (4): naixessen, naixesses, naixéssem, naixésseu
 
 MODEL 27 (Lema: 'carvendre'):
   - Formes que ¿FALTEN? (17): carvena, carveneren, carveneres, carvenes, carvenessen, carvenesses, carvenessin, carvenessis, carvené, carvenérem, carvenéreu, carvenés, carvenéssem, carvenésseu, carvenéssim, carvenéssiu, carvení
-  - Formes que ¿SOBREN? (1): carvén
 
 MODEL 197 (Lema: 'caldre'):
   - Formes que ¿FALTEN? (28): calc, caldrem, caldreu, caldries, caldràs, caldré, caldríem, caldríeu, calem, caleu, calguem, calgueres, calgues, calguesses, calguessis, calgueu, calguis, calguérem, calguéreu, calguéssem, calguésseu, calguéssim, calguéssiu, calguí, calies, cals, calíem, calíeu
 
-MODEL 22 (Lema: 'atènyer'):
-  - Formes que ¿SOBREN? (2): atényer, atés
-
 MODEL 97 (Lema: 'péixer'):
   - Formes que ¿FALTEN? (4): paixessen, paixesses, paixéssem, paixésseu
-
-MODEL 56 (Lema: 'desmerèixer'):
-  - Formes que ¿SOBREN? (1): desmeréixer
 
 MODEL 75 (Lema: 'fer'):
   - Formes que ¿FALTEN? (7): fé, férem, féreu, féssem, fésseu, féssim, féssiu

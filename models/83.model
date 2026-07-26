@@ -23,10 +23,10 @@
 [ae]ure euen [ae]ure VMIP3P00 # jeuen
 [ae]ure eia [ae]ure VMII1S00 # jeia
 [ae]ure èiem [ae]ure VMII1P00 # jèiem
-[ae]ure éiem [ae]ure VMII1P00 # jéiem
+#[ae]ure éiem [ae]ure VMII1P00 # jéiem
 [ae]ure eies [ae]ure VMII2S00 # jeies
 [ae]ure èieu [ae]ure VMII2P00 # jèieu
-[ae]ure éieu [ae]ure VMII2P00 # jéieu
+#[ae]ure éieu [ae]ure VMII2P00 # jéieu
 [ae]ure eia [ae]ure VMII3S00 # jeia
 [ae]ure eien [ae]ure VMII3P00 # jeien
 [ae]ure aguí [ae]ure VMIS1S00 # jaguí

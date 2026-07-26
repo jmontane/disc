@@ -20,10 +20,10 @@ iure iu iure VMIP3S00 # riu
 iure iuen iure VMIP3P00 # riuen
 iure eia iure VMII1S00 # reia
 iure èiem iure VMII1P00 # rèiem
-iure éiem iure VMII1P00 # réiem
+#iure éiem iure VMII1P00 # réiem
 iure eies iure VMII2S00 # reies
 iure èieu iure VMII2P00 # rèieu
-iure éieu iure VMII2P00 # réieu
+#iure éieu iure VMII2P00 # réieu
 iure eia iure VMII3S00 # reia
 iure eien iure VMII3P00 # reien
 iure iguí iure VMIS1S00 # riguí

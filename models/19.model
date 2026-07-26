@@ -2,7 +2,7 @@
 endre endre endre VMN00000 # aprehendre
 endre enent endre VMG00000 # aprehenent
 endre ès endre VMP00SM0 # aprehès
-endre és endre VMP00SM0 # aprehés
+#endre és endre VMP00SM0 # aprehés
 endre esa endre VMP00SF0 # aprehesa
 endre esos endre VMP00PM0 # aprehesos
 endre eses endre VMP00PF0 # apreheses
@@ -11,7 +11,7 @@ endre enem endre VMIP1P00 # aprehenem
 endre ens endre VMIP2S00 # aprehens
 endre eneu endre VMIP2P00 # apreheneu
 endre èn endre VMIP3S00 # aprehèn
-endre én endre VMIP3S00 # aprehén
+#endre én endre VMIP3S00 # aprehén
 endre enen endre VMIP3P00 # aprehenen
 endre enia endre VMII1S00 # aprehenia
 endre eníem endre VMII1P00 # apreheníem
@@ -65,7 +65,7 @@ endre engueren endre VMSI3P03 # aprehengueren
 endre enguessen endre VMSI3P05 # aprehenguessen
 endre enguem endre VMM01P00 # aprehenguem
 endre èn endre VMM02S00 # aprehèn
-endre én endre VMM02S00 # aprehén
+#endre én endre VMM02S00 # aprehén
 endre eneu endre VMM02P00 # apreheneu
 endre enga endre VMM03S0V # aprehenga
 endre engui endre VMM03S0Y # aprehengui
