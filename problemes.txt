@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 59 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 44 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 45 (Lema: 'corprendre'):
   - Formes que ¿SOBREN? (2): corprén, corprés
@@ -21,9 +21,6 @@ MODEL 121 (Lema: 'venir'):
 MODEL 40 (Lema: 'constrènyer'):
   - Formes que ¿SOBREN? (1): constrényer
 
-MODEL 161 (Lema: 'lluir'):
-  - Formes que ¿FALTEN? (1): llueixs
-
 MODEL 105 (Lema: 'reeixir'):
   - Formes que ¿FALTEN? (4): reïsquiren, reïsquires, reïsquírem, reïsquíreu
   - Formes que ¿SOBREN? (5): reeixira, reïsqui, reïsquin, reïsquis, reïsqué
@@ -33,9 +30,6 @@ MODEL 10 (Lema: 'admetre'):
 
 MODEL 85 (Lema: 'voler'):
   - Formes que ¿SOBREN? (6): vullc, vullga, vullguem, vullguen, vullgues, vullgueu
-
-MODEL 196 (Lema: 'engolir'):
-  - Formes que ¿FALTEN? (1): engoleixs
 
 MODEL 123 (Lema: 'veure'):
   - Formes que ¿FALTEN? (2): vessen, vesses
@@ -47,9 +41,6 @@ MODEL 28 (Lema: 'caure'):
 MODEL 58 (Lema: 'dir'):
   - Formes que ¿SOBREN? (2): déiem, déieu
 
-MODEL 118 (Lema: 'traduir'):
-  - Formes que ¿FALTEN? (1): tradueixs
-
 MODEL 54 (Lema: 'deseixir'):
   - Formes que ¿FALTEN? (4): desisquiren, desisquires, desisquírem, desisquíreu
   - Formes que ¿SOBREN? (9): deseixiguem, deseixigueu, deseixira, desisquessen, desisquesses, desisqué, desisqués, desisquéssem, desisquésseu
@@ -60,14 +51,8 @@ MODEL 21 (Lema: 'atendre'):
 MODEL 90 (Lema: 'renàixer'):
   - Formes que ¿FALTEN? (4): renaixessen, renaixesses, renaixéssem, renaixésseu
 
-MODEL 92 (Lema: 'oferir'):
-  - Formes que ¿FALTEN? (1): ofereixs
-
 MODEL 108 (Lema: 'riure'):
   - Formes que ¿SOBREN? (2): réiem, réieu
-
-MODEL 94 (Lema: 'oir'):
-  - Formes que ¿FALTEN? (1): oeixs
 
 MODEL 20 (Lema: 'asseure'):
   - Formes que ¿SOBREN? (2): asséiem, asséieu
@@ -81,7 +66,7 @@ MODEL 17 (Lema: 'aparèixer'):
   - Formes que ¿SOBREN? (1): aparéixer
 
 MODEL 114 (Lema: 'teixir'):
-  - Formes que ¿FALTEN? (2): teixeixs, tixo
+  - Formes que ¿FALTEN? (1): tixo
 
 MODEL 13 (Lema: 'avenir'):
   - Formes que ¿FALTEN? (4): avenguessen, avenguesses, avenguéssem, avenguésseu
@@ -94,22 +79,12 @@ MODEL 82 (Lema: 'irèixer'):
   - Formes que ¿FALTEN? (4): ireixessen, ireixesses, ireixéssem, ireixésseu
   - Formes que ¿SOBREN? (1): iréixer
 
-MODEL 98 (Lema: 'penedir'):
-  - Formes que ¿FALTEN? (1): penedeixs
-
 MODEL 78 (Lema: 'fregir'):
-  - Formes que ¿FALTEN? (1): fregeixs
   - Formes que ¿SOBREN? (7): frigc, frigga, frigguen, friggues, frigi, frigin, frigis
 
-MODEL 81 (Lema: 'imprimir'):
-  - Formes que ¿FALTEN? (1): imprimeixs
-
 MODEL 122 (Lema: 'vestir'):
-  - Formes que ¿FALTEN? (4): vesta, vesteixs, vestes, vists
+  - Formes que ¿FALTEN? (3): vesta, vestes, vists
   - Formes que ¿SOBREN? (4): vesti, vestin, vestis, vestixi
-
-MODEL 106 (Lema: 'renyir'):
-  - Formes que ¿FALTEN? (1): renyeixs
 
 MODEL 71 (Lema: 'ser'):
   - Formes que ¿FALTEN? (4): set, seta, setes, sets
@@ -134,29 +109,11 @@ MODEL 65 (Lema: 'entreveure'):
   - Formes que ¿FALTEN? (5): entrevessen, entrevesses, entrevèrem, entrevéssem, entrevésseu
   - Formes que ¿SOBREN? (3): entrevéiem, entrevéieu, entrevéu
 
-MODEL 6 (Lema: 'acomplir'):
-  - Formes que ¿FALTEN? (1): acompleixs
-
-MODEL 76 (Lema: 'ferir'):
-  - Formes que ¿FALTEN? (1): fereixs
-
-MODEL 112 (Lema: 'servir'):
-  - Formes que ¿FALTEN? (1): serveixs
-
-MODEL 61 (Lema: 'entrelluir'):
-  - Formes que ¿FALTEN? (1): entrellueixs
-
 MODEL 5 (Lema: 'acollir'):
   - Formes que ¿FALTEN? (2): acolliguem, acolligueu
 
-MODEL 195 (Lema: 'escollir'):
-  - Formes que ¿FALTEN? (1): escolleixs
-
 MODEL 4 (Lema: 'abstraure'):
   - Formes que ¿SOBREN? (5): abstrega, abstreguen, abstregues, abstréiem, abstréieu
-
-MODEL 31 (Lema: 'cobrir'):
-  - Formes que ¿FALTEN? (1): cobreixs
 
 MODEL 190 (Lema: 'nàixer'):
   - Formes que ¿FALTEN? (4): naixessen, naixesses, naixéssem, naixésseu
@@ -177,9 +134,6 @@ MODEL 97 (Lema: 'péixer'):
 MODEL 56 (Lema: 'desmerèixer'):
   - Formes que ¿SOBREN? (1): desmeréixer
 
-MODEL 116 (Lema: 'tenyir'):
-  - Formes que ¿FALTEN? (1): tenyeixs
-
 MODEL 75 (Lema: 'fer'):
   - Formes que ¿FALTEN? (7): fé, férem, féreu, féssem, fésseu, féssim, féssiu
   - Formes que ¿SOBREN? (1): fe
@@ -188,7 +142,6 @@ MODEL 120 (Lema: 'vendre'):
   - Formes que ¿FALTEN? (17): vena, veneren, veneres, venes, venessen, venesses, venessin, venessis, vené, venérem, venéreu, venés, venéssem, venésseu, venéssim, venéssiu, vení
 
 MODEL 14 (Lema: 'afegir'):
-  - Formes que ¿FALTEN? (1): afegeixs
   - Formes que ¿SOBREN? (4): afigc, afigga, afigguen, afiggues
 
 MODEL 64 (Lema: 'entrevenir'):

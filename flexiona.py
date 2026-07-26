@@ -207,7 +207,7 @@ def validar_tests_verbals(models, directori_tests="./tests"):
                         continue
                     
                     with open(fitxer_test, 'r', encoding='utf-8') as f_test:
-                        esperades_test = set(line.strip() for line in f_test if line.strip())
+                        esperades_test = set(line.strip() for line in f_test if line.strip() and not line.strip().startswith('#'))
                     
                     generades_model = set()
                     for regla in dada['regles']:
