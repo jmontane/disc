@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 60 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 59 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 45 (Lema: 'corprendre'):
   - Formes que ¿SOBREN? (2): corprén, corprés
@@ -38,7 +38,7 @@ MODEL 196 (Lema: 'engolir'):
   - Formes que ¿FALTEN? (1): engoleixs
 
 MODEL 123 (Lema: 'veure'):
-  - Formes que ¿FALTEN? (3): vejam, vessen, vesses
+  - Formes que ¿FALTEN? (2): vessen, vesses
   - Formes que ¿SOBREN? (3): véiem, véieu, véu
 
 MODEL 28 (Lema: 'caure'):
@@ -101,9 +101,6 @@ MODEL 78 (Lema: 'fregir'):
   - Formes que ¿FALTEN? (1): fregeixs
   - Formes que ¿SOBREN? (7): frigc, frigga, frigguen, friggues, frigi, frigin, frigis
 
-MODEL 16 (Lema: 'anar'):
-  - Formes que ¿SOBREN? (10): vam, varen, vares, vau, vàgem, vàgeu, vàgim, vàgiu, vàrem, vàreu
-
 MODEL 81 (Lema: 'imprimir'):
   - Formes que ¿FALTEN? (1): imprimeixs
 
@@ -115,7 +112,8 @@ MODEL 106 (Lema: 'renyir'):
   - Formes que ¿FALTEN? (1): renyeixs
 
 MODEL 71 (Lema: 'ser'):
-  - Formes que ¿FALTEN? (15): fon, sem, set, seta, setes, sets, seu, sia, siam, siau, siem, sien, sies, sieu, sigau
+  - Formes que ¿FALTEN? (4): set, seta, setes, sets
+  - Formes que ¿SOBREN? (2): só, sóc
 
 MODEL 43 (Lema: 'convèncer'):
   - Formes que ¿SOBREN? (1): convéncer
@@ -213,7 +211,7 @@ Tots els lemes verbals generen el memo nombre de formes que el seu model de refe
 
 3. INCOMPLIMENT DE QUANTITAT DE FORMES DE CORD (RANGS 200-399)
 --------------------------------------------------
-S'han trobat 12 lemes com un nombre de formes inesperat:
+S'han trobat 11 lemes com un nombre de formes inesperat:
 
 LÍNIA	LEMA	MODEL	FORMES GENERADES	ESPERADES
 23108	em	666	0			X
@@ -226,7 +224,6 @@ LÍNIA	LEMA	MODEL	FORMES GENERADES	ESPERADES
 46502	nos	666	0			X
 63823	ton	666	0			X
 65939	us	666	0			X
-66004	va	666	0			X
 67460	vos	666	0			X
 
 

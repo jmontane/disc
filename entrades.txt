@@ -66001,7 +66001,7 @@ uvular|adj.|201
 uxoricida|m.|203
 uxoricidi|m.|201
 va|adj.|340
-va|CAT~DESC.|666
+va|CAT~DESC.|635
 vaca|f.|204
 vacació|f.|211
 vacada|f.|203

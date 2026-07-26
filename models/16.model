@@ -1,26 +1,4 @@
 # 16 anar
-anar vaig ar VAIP1S00 # vaig
-anar vares ar VAIP2S00 # vares
-anar vas ar VAIP2S00 # vas
-anar va ar VAIP3S00 # va
-anar vam ar VAIP1P00 # vam
-anar vàrem ar VAIP1P00 # vàrem
-anar vau ar VAIP2P00 # vau
-anar vàreu ar VAIP2P00 # vàreu
-anar van ar VAIP3P00 # van
-anar varen ar VAIP3P00 # varen
-anar vaja ar VASP1S0V # vaja
-anar vagi ar VASP1S0Y # vagi
-anar vages ar VASP2S0V # vages
-anar vagis ar VASP2S0Y # vagis
-anar vaja ar VASP3S0V # vaja
-anar vagi ar VASP3S0Y # vagi
-anar vàgem ar VASP1P0V # vàgem
-anar vàgim ar VASP1P0Y # vàgim
-anar vàgeu ar VASP2P0V # vàgeu
-anar vàgiu ar VASP2P0Y # vàgiu
-anar vagen ar VASP3P0V # vagen
-anar vagin ar VASP3P0Y # vagin
 r r ar VMN00000 # anar
 r nt ar VMG00000 # anant
 r t ar VMP00SM0 # anat
