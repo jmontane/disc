@@ -13,9 +13,9 @@ er iguts er VSP00PM0 # siguts
 ser estades er VSP00PF0 # estades
 er igudes er VSP00PF0 # sigudes
 er o er VSIP1S0A # so
-er ó er VSIP1S0A # só
+#er ó er VSIP1S0A # só
 er oc er VSIP1S00 # soc
-er óc er VSIP1S00 # sóc
+#er óc er VSIP1S00 # sóc
 er om er VSIP1S0B # som
 er om er VSIP1S0S # som
 ser ets er VSIP2S00 # ets

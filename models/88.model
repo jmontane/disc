@@ -2,13 +2,13 @@
 ldre ldre ldre VMN00000 # moldre
 ldre lent ldre VMG00000 # molent
 ldre lt ldre VMP00SM0 # molt
-oldre òlt ldre VMP00SM0 # mòlt
+#oldre òlt ldre VMP00SM0 # mòlt
 ldre lta ldre VMP00SF0 # molta
-oldre òlta ldre VMP00SF0 # mòlta
+#oldre òlta ldre VMP00SF0 # mòlta
 ldre lts ldre VMP00PM0 # molts
-oldre òlts ldre VMP00PM0 # mòlts
+#oldre òlts ldre VMP00PM0 # mòlts
 ldre ltes ldre VMP00PF0 # moltes
-oldre òltes ldre VMP00PF0 # mòltes
+#oldre òltes ldre VMP00PF0 # mòltes
 ldre lc ldre VMIP1S00 # molc
 ldre lem ldre VMIP1P00 # molem
 ldre ls ldre VMIP2S00 # mols

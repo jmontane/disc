@@ -15,7 +15,6 @@ MODEL 105 (Lema: 'reeixir'):
 
 MODEL 123 (Lema: 'veure'):
   - Formes que ¿FALTEN? (2): vessen, vesses
-  - Formes que ¿SOBREN? (1): véu
 
 MODEL 54 (Lema: 'deseixir'):
   - Formes que ¿FALTEN? (4): desisquiren, desisquires, desisquírem, desisquíreu
@@ -52,7 +51,6 @@ MODEL 122 (Lema: 'vestir'):
 
 MODEL 71 (Lema: 'ser'):
   - Formes que ¿FALTEN? (4): set, seta, setes, sets
-  - Formes que ¿SOBREN? (2): só, sóc
 
 MODEL 101 (Lema: 'pruir'):
   - Formes que ¿SOBREN? (4): pruíssem, pruísseu, pruïssen, pruïsses
@@ -62,7 +60,6 @@ MODEL 115 (Lema: 'tenir'):
 
 MODEL 65 (Lema: 'entreveure'):
   - Formes que ¿FALTEN? (5): entrevessen, entrevesses, entrevèrem, entrevéssem, entrevésseu
-  - Formes que ¿SOBREN? (1): entrevéu
 
 MODEL 5 (Lema: 'acollir'):
   - Formes que ¿FALTEN? (2): acolliguem, acolligueu
@@ -83,8 +80,7 @@ MODEL 97 (Lema: 'péixer'):
   - Formes que ¿FALTEN? (4): paixessen, paixesses, paixéssem, paixésseu
 
 MODEL 75 (Lema: 'fer'):
-  - Formes que ¿FALTEN? (7): fé, férem, féreu, féssem, fésseu, féssim, féssiu
-  - Formes que ¿SOBREN? (1): fe
+  - Formes que ¿FALTEN? (6): férem, féreu, féssem, fésseu, féssim, féssiu
 
 MODEL 120 (Lema: 'vendre'):
   - Formes que ¿FALTEN? (17): vena, veneren, veneres, venes, venessen, venesses, venessin, venessis, vené, venérem, venéreu, venés, venéssem, venésseu, venéssim, venéssiu, vení

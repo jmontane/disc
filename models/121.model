@@ -15,11 +15,11 @@
 [enir|indre] inc [enir|indre] VMIP1S00 # vinc
 [enir|indre] enim [enir|indre] VMIP1P00 # venim
 [enir|indre] ens [enir|indre] VMIP2S00 # vens
-[enir|indre] éns [enir|indre] VMIP2S00 # véns
+#[enir|indre] éns [enir|indre] VMIP2S00 # véns
 [enir|indre] eniu [enir|indre] VMIP2P00 # veniu
 [enir|indre] e [enir|indre] VMIP3S00 # ve
 [enir|indre] enen [enir|indre] VMIP3P00 # venen
-[enir|indre] énen [enir|indre] VMIP3P00 # vénen
+#[enir|indre] énen [enir|indre] VMIP3P00 # vénen
 [enir|indre] enia [enir|indre] VMII1S00 # venia
 [enir|indre] eníem [enir|indre] VMII1P00 # veníem
 [enir|indre] enies [enir|indre] VMII2S00 # venies
