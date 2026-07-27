@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 24 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 23 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
@@ -66,9 +66,6 @@ MODEL 190 (Lema: 'nàixer'):
 
 MODEL 27 (Lema: 'carvendre'):
   - Formes que ¿FALTEN? (17): carvena, carveneren, carveneres, carvenes, carvenessen, carvenesses, carvenessin, carvenessis, carvené, carvenérem, carvenéreu, carvenés, carvenéssem, carvenésseu, carvenéssim, carvenéssiu, carvení
-
-MODEL 197 (Lema: 'caldre'):
-  - Formes que ¿FALTEN? (28): calc, caldrem, caldreu, caldries, caldràs, caldré, caldríem, caldríeu, calem, caleu, calguem, calgueres, calgues, calguesses, calguessis, calgueu, calguis, calguérem, calguéreu, calguéssem, calguésseu, calguéssim, calguéssiu, calguí, calies, cals, calíem, calíeu
 
 MODEL 97 (Lema: 'péixer'):
   - Formes que ¿FALTEN? (4): paixessen, paixesses, paixéssem, paixésseu
