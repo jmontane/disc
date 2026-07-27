@@ -65899,7 +65899,7 @@ urgellès|adj.~mif.|351
 urgència|f.|203
 urgent|adj.|201
 urgentment|adv.|500
-urgir|v.|112
+urgir|v.|193
 úric|adj.|304
 uricèmia|f.|203
 uricotèlic|adj.|304
