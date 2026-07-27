@@ -31,7 +31,6 @@ MODEL 114 (Lema: 'teixir'):
 
 MODEL 13 (Lema: 'avenir'):
   - Formes que ¿FALTEN? (4): avenguessen, avenguesses, avenguéssem, avenguésseu
-  - Formes que ¿SOBREN? (1): avindre
 
 MODEL 82 (Lema: 'irèixer'):
   - Formes que ¿FALTEN? (4): ireixessen, ireixesses, ireixéssem, ireixésseu
