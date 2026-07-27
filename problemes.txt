@@ -46,6 +46,9 @@ MODEL 82 (Lema: 'irèixer'):
 MODEL 78 (Lema: 'fregir'):
   - Formes que ¿SOBREN? (7): frigc, frigga, frigguen, friggues, frigi, frigin, frigis
 
+MODEL 198 (Lema: 'soler'):
+  - Formes que ¿FALTEN? (17): soldran, soldrem, soldreu, soldria, soldrien, soldries, soldrà, soldràs, soldré, soldríem, soldríeu, solguda, solgudes, solgut, solguts, solgué, solguí
+
 MODEL 122 (Lema: 'vestir'):
   - Formes que ¿FALTEN? (3): vesta, vestes, vists
   - Formes que ¿SOBREN? (4): vesti, vestin, vestis, vestixi
@@ -59,10 +62,6 @@ MODEL 101 (Lema: 'pruir'):
 
 MODEL 115 (Lema: 'tenir'):
   - Formes que ¿FALTEN? (4): tenguessen, tenguesses, tenguéssem, tenguésseu
-
-MODEL 192 (Lema: 'argüir'):
-  - Formes que ¿FALTEN? (22): argüia, argüida, argüides, argüien, argüies, argüiguem, argüigueu, argüim, argüira, argüiren, argüires, argüisca, argüisquen, argüisques, argüissen, argüisses, argüissin, argüissis, argüit, argüits, argüiu, argüixen
-  - Formes que ¿SOBREN? (23): arguïa, arguïda, arguïdes, arguïen, arguïes, arguïguem, arguïgueu, arguïm, arguïra, arguïren, arguïres, arguïsca, arguïsquen, arguïsques, arguïssen, arguïsses, arguïssin, arguïssis, arguït, arguïts, arguïu, arguïx, arguïxen
 
 MODEL 65 (Lema: 'entreveure'):
   - Formes que ¿FALTEN? (5): entrevessen, entrevesses, entrevèrem, entrevéssem, entrevésseu
