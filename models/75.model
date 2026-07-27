@@ -1,17 +1,17 @@
 # 75 fer
-eréiem er VMII1P00 # féiem
-eréieu er VMII2P00 # féieu
-erérem er VMIS1P00 # férem
-eréreu er VMIS2P00 # féreu
-eré er VMIS3S0B # fé
-eréu er VMIS3S00 # féu
-eréssim er VMSI1P02 # féssim
-erérem er VMSI1P03 # férem
-eréssem er VMSI1P05 # féssem
-eréssiu er VMSI2P02 # féssiu
-eréreu er VMSI2P03 # féreu
-erésseu er VMSI2P05 # fésseu
-eré er VMM02S0B # fé
+#er éiem er VMII1P00 # féiem
+#er éieu er VMII2P00 # féieu
+er érem er VMIS1P00 # férem
+er éreu er VMIS2P00 # féreu
+#er é er VMIS3S0B # fé
+#er éu er VMIS3S00 # féu
+er éssim er VMSI1P02 # féssim
+er érem er VMSI1P03 # férem
+er éssem er VMSI1P05 # féssem
+er éssiu er VMSI2P02 # féssiu
+er éreu er VMSI2P03 # féreu
+er ésseu er VMSI2P05 # fésseu
+#er é er VMM02S0B # fé
 er er er VMN00000 # fer
 er ent er VMG00000 # fent
 er et er VMP00SM0 # fet
