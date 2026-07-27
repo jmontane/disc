@@ -45683,7 +45683,7 @@ nàixer|v.|190
 naixó|f.|211
 nan|adj.mif.|301
 nanisme|m.|201
-nannar|v.|26
+nannar|v.|500
 nanoelectrònica|f.|204
 nanquins|mpl.|522
 nansa|f.|203
