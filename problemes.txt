@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 25 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 24 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
@@ -75,9 +75,6 @@ MODEL 97 (Lema: 'péixer'):
 
 MODEL 120 (Lema: 'vendre'):
   - Formes que ¿FALTEN? (17): vena, veneren, veneres, venes, venessen, venesses, venessin, venessis, vené, venérem, venéreu, venés, venéssem, venésseu, venéssim, venéssiu, vení
-
-MODEL 14 (Lema: 'afegir'):
-  - Formes que ¿SOBREN? (4): afigc, afigga, afigguen, afiggues
 
 MODEL 64 (Lema: 'entrevenir'):
   - Formes que ¿FALTEN? (4): entrevenguessen, entrevenguesses, entrevenguéssem, entrevenguésseu

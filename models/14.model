@@ -7,7 +7,7 @@ egir egits egir VMP00PM0 # afegits
 egir egides egir VMP00PF0 # afegides
 egir egeixo egir VMIP1S0C # afegeixo
 egir egisc egir VMIP1S0V # afegisc
-egir igc egir VMIP1S0V # afigc
+#egir igc egir VMIP1S0V # afigc
 egir egeixi egir VMIP1S0S # afegeixi
 egir egixo egir VMIP1S0N # afegixo
 egir egesc egir VMIP1S0Z # afegesc
@@ -49,7 +49,7 @@ egir egiria egir VMIC3S00 # afegiria
 egir egirien egir VMIC3P00 # afegirien
 egir egesca egir VMSP1S0V # afegesca
 egir egisca egir VMSP1S0V # afegisca
-egir igga egir VMSP1S0V # afigga
+#egir igga egir VMSP1S0V # afigga
 egir ija egir VMSP1S0V # afija
 egir egesqui egir VMSP1S0B # afegesqui
 egir igi egir VMSP1S0B # afigi
@@ -59,7 +59,7 @@ egir egim egir VMSP1P00 # afegim
 egir egesques egir VMSP2S0V # afegesques
 egir egisques egir VMSP2S0V # afegisques
 egir iges egir VMSP2S0V # afiges
-egir iggues egir VMSP2S0V # afiggues
+#egir iggues egir VMSP2S0V # afiggues
 egir egesquis egir VMSP2S0B # afegesquis
 egir igis egir VMSP2S0B # afigis
 egir egeixis egir VMSP2S0Y # afegeixis
@@ -67,7 +67,7 @@ egir egigueu egir VMSP2P0B # afegigueu
 egir egiu egir VMSP2P00 # afegiu
 egir egesca egir VMSP3S0V # afegesca
 egir egisca egir VMSP3S0V # afegisca
-egir igga egir VMSP3S0V # afigga
+#egir igga egir VMSP3S0V # afigga
 egir ija egir VMSP3S0V # afija
 egir egesqui egir VMSP3S0B # afegesqui
 egir igi egir VMSP3S0B # afigi
@@ -75,7 +75,7 @@ egir egeixi egir VMSP3S0Y # afegeixi
 egir egesquen egir VMSP3P0V # afegesquen
 egir egisquen egir VMSP3P0V # afegisquen
 egir igen egir VMSP3P0V # afigen
-egir igguen egir VMSP3P0V # afigguen
+#egir igguen egir VMSP3P0V # afigguen
 egir egesquin egir VMSP3P0B # afegesquin
 egir igin egir VMSP3P0B # afigin
 egir egeixin egir VMSP3P0Y # afegeixin
