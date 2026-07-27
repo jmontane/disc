@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 27 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 26 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
@@ -22,9 +22,6 @@ MODEL 54 (Lema: 'deseixir'):
 
 MODEL 90 (Lema: 'renàixer'):
   - Formes que ¿FALTEN? (4): renaixessen, renaixesses, renaixéssem, renaixésseu
-
-MODEL 42 (Lema: 'contrafer'):
-  - Formes que ¿FALTEN? (5): contrafés, contraféssem, contrafésseu, contraféssim, contraféssiu
 
 MODEL 17 (Lema: 'aparèixer'):
   - Formes que ¿FALTEN? (25): apareixo, aparesc, aparesca, aparescuda, aparescudes, aparescut, aparescuts, aparesquem, aparesquen, aparesqueren, aparesqueres, aparesques, aparesquessin, aparesquessis, aparesqueu, aparesqui, aparesquin, aparesquis, aparesqué, aparesquérem, aparesquéreu, aparesqués, aparesquéssim, aparesquéssiu, aparesquí
