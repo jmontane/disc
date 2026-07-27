@@ -8,8 +8,8 @@ r des ar VMP00PF0 # cantades
 ar o ar VMIP1S0C # canto
 ar e ar VMIP1S0V # cante
 ar 0 [^nls]ar VMIP1S0B # cant
-ar 0 [^n]nar VMIP1S0B # ALT:????
-ar 0 [^·]lar VMIP1S0B # ALT:????
+ar 0 [^n]nar VMIP1S0B # ALT:don
+ar 0 [^·]lar VMIP1S0B # ALT:fall
 ar 0 [^s]sar VMIP1S0B # ALT:pos
 ·lar 0 l·lar VMIP1S0B # ALT:instal
 sar 0 ssar VMIP1S0B # ALT:pas
