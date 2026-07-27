@@ -11,7 +11,7 @@ egir egides fregir VMP00PF0 # fregides
 egir ites fregir VMP00PFB # frites
 egir egeixo fregir VMIP1S0C # fregeixo
 egir egisc fregir VMIP1S0V # fregisc
-egir igc fregir VMIP1S0V # frigc
+#egir igc fregir VMIP1S0V # frigc
 egir egeixi fregir VMIP1S0S # fregeixi
 egir egixo fregir VMIP1S0N # fregixo
 egir egesc fregir VMIP1S0Z # fregesc
@@ -53,7 +53,7 @@ egir egiria fregir VMIC3S00 # fregiria
 egir egirien fregir VMIC3P00 # fregirien
 egir egesca fregir VMSP1S0V # fregesca
 egir egisca fregir VMSP1S0V # fregisca
-egir igga fregir VMSP1S0V # frigga
+#egir igga fregir VMSP1S0V # frigga
 egir ija fregir VMSP1S0V # frija
 egir egesqui fregir VMSP1S0B # fregesqui
 egir igi fregir VMSP1S0B # frigi
@@ -63,7 +63,7 @@ egir egim fregir VMSP1P00 # fregim
 egir egesques fregir VMSP2S0V # fregesques
 egir egisques fregir VMSP2S0V # fregisques
 egir iges fregir VMSP2S0V # friges
-egir iggues fregir VMSP2S0V # friggues
+#egir iggues fregir VMSP2S0V # friggues
 egir egesquis fregir VMSP2S0B # fregesquis
 egir igis fregir VMSP2S0B # frigis
 egir egeixis fregir VMSP2S0Y # fregeixis
@@ -71,7 +71,7 @@ egir egigueu fregir VMSP2P0B # fregigueu
 egir egiu fregir VMSP2P00 # fregiu
 egir egesca fregir VMSP3S0V # fregesca
 egir egisca fregir VMSP3S0V # fregisca
-egir igga fregir VMSP3S0V # frigga
+#egir igga fregir VMSP3S0V # frigga
 egir ija fregir VMSP3S0V # frija
 egir egesqui fregir VMSP3S0B # fregesqui
 egir igi fregir VMSP3S0B # frigi
@@ -79,7 +79,7 @@ egir egeixi fregir VMSP3S0Y # fregeixi
 egir egesquen fregir VMSP3P0V # fregesquen
 egir egisquen fregir VMSP3P0V # fregisquen
 egir igen fregir VMSP3P0V # frigen
-egir igguen fregir VMSP3P0V # frigguen
+#egir igguen fregir VMSP3P0V # frigguen
 egir egesquin fregir VMSP3P0B # fregesquin
 egir igin fregir VMSP3P0B # frigin
 egir egeixin fregir VMSP3P0Y # fregeixin

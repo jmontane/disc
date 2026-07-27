@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 26 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 25 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
@@ -35,9 +35,6 @@ MODEL 13 (Lema: 'avenir'):
 
 MODEL 82 (Lema: 'irèixer'):
   - Formes que ¿FALTEN? (4): ireixessen, ireixesses, ireixéssem, ireixésseu
-
-MODEL 78 (Lema: 'fregir'):
-  - Formes que ¿SOBREN? (7): frigc, frigga, frigguen, friggues, frigi, frigin, frigis
 
 MODEL 198 (Lema: 'soler'):
   - Formes que ¿FALTEN? (17): soldran, soldrem, soldreu, soldria, soldrien, soldries, soldrà, soldràs, soldré, soldríem, soldríeu, solguda, solgudes, solgut, solguts, solgué, solguí
