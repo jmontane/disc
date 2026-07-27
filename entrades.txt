@@ -28215,8 +28215,8 @@ essencial|adj.|201
 essencialment|adv.|500
 esseni|adj.~mif.|361
 ésser|m.|201
-ésser|v.|71
-esser|v.|71
+#ésser|v.|71
+#esser|v.|71
 essiu|adj.~m.|201
 essorant|adj.|201
 est|adj.~m.|230
