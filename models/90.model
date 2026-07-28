@@ -21,6 +21,10 @@
 éixer asc éixer VMIP1S0V # ALT:renasc
 àixer esc àixer VMIP1S0B # renesc
 éixer esc éixer VMIP1S0B # ALT:renesc
+#àixer aixi àixer VMIP1S0N # renaixi
+#éixer aixi éixer VMIP1S0N # ALT:renaixi
+àixer eixi àixer VMIP1S0N # reneixi
+éixer eixi éixer VMIP1S0N # ALT:reneixi
 àixer aixes àixer VMIP2S00 # renaixes
 éixer aixes éixer VMIP2S00 # ALT:renaixes
 àixer eixes àixer VMIP2S00 # reneixes

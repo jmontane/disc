@@ -8,6 +8,7 @@ re uda re VMP00SF0 # abatuda
 re uts re VMP00PM0 # abatuts
 re udes re VMP00PF0 # abatudes
 re o re VMIP1S0C # abato
+re i re VMIP1S0N # abati
 re 0 re VMIP1S0Z # abat
 re s re VMIP2S00 # abats
 re em re VMIP1P00 # abatem

@@ -8,6 +8,7 @@ ir ides ir VMP00PF0 # acudides
 ir eixo ir VMIP1S0C # acudeixo
 ir o ir VMIP1S0C # acudo
 ir isc ir VMIP1S0V # acudisc
+ir i ir VMIP1S0N # acudi
 ir eixi ir VMIP1S0N # acudeixi
 ir ixo ir VMIP1S0W # acudixo
 ir esc ir VMIP1S0Z # acudesc

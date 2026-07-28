@@ -6,8 +6,8 @@ opir opida opir VMP00SF0 # escopida
 opir opits opir VMP00PM0 # escopits
 opir opides opir VMP00PF0 # escopides
 opir upo opir VMIP1S0C # escupo
-opir up opir VMIP1S0Z # escup
 opir upi opir VMIP1S0N # escupi
+opir up opir VMIP1S0Z # escup
 opir ups opir VMIP2S00 # escups
 opir up opir VMIP3S00 # escup
 opir opim opir VMIP1P00 # escopim

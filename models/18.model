@@ -6,6 +6,7 @@ bre buda bre VMP00SF0 # apercebuda
 bre buts bre VMP00PM0 # apercebuts
 bre budes bre VMP00PF0 # apercebudes
 bre bo bre VMIP1S0C # apercebo
+bre bi bre VMIP1S0N # apercebi
 bre p bre VMIP1S0Z # apercep
 bre ps bre VMIP2S00 # aperceps
 bre p bre VMIP3S00 # apercep

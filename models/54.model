@@ -6,6 +6,7 @@ eixir eixida eixir VMP00SF0 # deseixida
 eixir eixits eixir VMP00PM0 # deseixits
 eixir eixides eixir VMP00PF0 # deseixides
 eixir ixo eixir VMIP1S0C # desixo
+eixir ixi eixir VMIP1S0N # desixi
 eixir isc eixir VMIP1S0Z # desisc
 eixir ixes eixir VMIP2S00 # desixes
 eixir ix eixir VMIP3S00 # desix

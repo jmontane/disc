@@ -6,6 +6,7 @@ ir ida uixir VMP00SF0 # cruixida
 ir its uixir VMP00PM0 # cruixits
 ir ides uixir VMP00PF0 # cruixides
 ir o uixir VMIP1S0C # cruixo
+ir i uixir VMIP1S0N # cruixi
 ir 0 uixir VMIP1S0Z # cruix
 ir es uixir VMIP2S00 # cruixes
 ir 0 uixir VMIP3S00 # cruix

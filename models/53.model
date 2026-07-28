@@ -6,6 +6,7 @@ osir osida osir VMP00SF0 # descosida
 osir osits osir VMP00PM0 # descosits
 osir osides osir VMP00PF0 # descosides
 osir uso osir VMIP1S0C # descuso
+osir usi osir VMIP1S0N # descusi
 osir ús osir VMIP1S0Z # descús
 osir uses osir VMIP2S00 # descuses
 osir ús osir VMIP3S00 # descús

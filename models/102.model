@@ -6,6 +6,7 @@ dir dida dir VMP00SF0 # pudida
 dir dits dir VMP00PM0 # pudits
 dir dides dir VMP00PF0 # pudides
 dir do dir VMIP1S0C # pudo
+dir di dir VMIP1S0N # pudi
 dir t dir VMIP1S0Z # put
 dir ts dir VMIP2S00 # puts
 dir t dir VMIP3S00 # put

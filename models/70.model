@@ -20,14 +20,18 @@ r r er VMN00000 # témer
 òmer omudes er VMP00PF0 #ALT: nomudes
 úmer umudes er VMP00PF0 # ALT: fumudes
 únyer unyudes er VMP00PF0 # ALT: funyudes
-émer emo er VMIP1S0C # temo
-òmer omo er VMIP1S0C #ALT: nomo
-úmer umo er VMIP1S0C # ALT: fumo
-únyer unyo er VMIP1S0C # ALT: funyo
+émer emo émer VMIP1S0C # temo
+òmer omo òmer VMIP1S0C #ALT: nomo
+úmer umo úmer VMIP1S0C # ALT: fumo
+únyer unyo únyer VMIP1S0C # ALT: funyo
 émer em er VMIP1S0B # tem
 òmer om er VMIP1S0B #ALT: nom
 úmer um er VMIP1S0B # ALT: fum
 únyer uny er VMIP1S0B # ALT: funy
+émer emi émer VMIP1S0N # temi
+òmer omi òmer VMIP1S0N #ALT: nomi
+úmer umi úmer VMIP1S0N # ALT: fumi
+únyer unyi únyer VMIP1S0N # ALT: funyi
 émer ems er VMIP2S00 # tems
 òmer oms er VMIP2S00 #ALT: noms
 úmer ums er VMIP2S00 # ALT: fums

@@ -10,6 +10,7 @@ gir its gir VMP00PMB # confuits
 gir gides gir VMP00PF0 # confugides
 gir ites gir VMP00PFB # confuites
 gir jo gir VMIP1S0C # confujo
+gir gi gir VMIP1S0N # confugi
 gir ig gir VMIP1S0Z # confuig
 gir ges gir VMIP2S00 # confuges
 gir ig gir VMIP3S00 # confuig

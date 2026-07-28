@@ -60,7 +60,7 @@ def obtenir_clau_ordenacio(linea):
         if pos8 in "123456":
         	ordre_pos8 = int(pos8) 
         else:
-        	ordre_pos8 = 1 if pos8 == "C" else (2 if pos8 == "V" else 3 if pos8 == "B" else 4 if pos8 == "Y" else 4)
+        	ordre_pos8 = 1 if pos8 == "C" else (2 if pos8 == "V" else 3 if pos8 == "B" else 4 if pos8 == "N" else 5 if pos8 == "W" else 6 if pos8 == "X" else 7 if pos8 == "Y" else 8 if pos8 == "Z" else 9 if pos8 == "F" else 10)
 
         sub1, sub2, sub3 = ordre_pos5, ordre_pos6, ordre_pos8
 

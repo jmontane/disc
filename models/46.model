@@ -6,6 +6,7 @@ osir osida osir VMP00SF0 # cosida
 osir osits osir VMP00PM0 # cosits
 osir osides osir VMP00PF0 # cosides
 osir uso osir VMIP1S0C # cuso
+osir usi osir VMIP1S0N # cusi
 osir us osir VMIP1S0Z # cus
 osir uses osir VMIP2S00 # cuses
 osir us osir VMIP3S00 # cus
