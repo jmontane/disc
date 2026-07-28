@@ -8,6 +8,7 @@ r des ar VMP00PF0 # creades
 ar o ar VMIP1S0C # creo
 ar e ar VMIP1S0V # cree
 ar i ar VMIP1S0B # crei
+ar ï ar VMIP1S0N # creï
 ar es ar VMIP2S00 # crees
 r 0 ar VMIP3S00 # crea
 r m ar VMIP1P0B # cream

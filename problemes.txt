@@ -39,7 +39,7 @@ MODEL 198 (Lema: 'soler'):
   - Formes que ¿FALTEN? (17): soldran, soldrem, soldreu, soldria, soldrien, soldries, soldrà, soldràs, soldré, soldríem, soldríeu, solguda, solgudes, solgut, solguts, solgué, solguí
 
 MODEL 122 (Lema: 'vestir'):
-  - Formes que ¿FALTEN? (3): vesta, vestes, vists
+  - Formes que ¿FALTEN? (4): vesta, vestes, vestixi, vists
 
 MODEL 71 (Lema: 'ser'):
   - Formes que ¿FALTEN? (4): set, seta, setes, sets
@@ -78,10 +78,7 @@ MODEL 12 (Lema: 'adscriure'):
 
 2. DISCREPÀNCIES INTERNES EN MODELS VERBALS (RANG 1-199)
 --------------------------------------------------
-S'han trobat 1 errors de generació en les regles dels propis models verbals:
-
-MODEL	LÍNIA	LEMA REF.	FORMA GENERADA	FORMA ESPERADA
-122	13	vestir	vestixi		vesteixi
+Tots els models verbals (1-199) generen exactament les formes esperades per línia de regla.
 
 
 3. INCOMPLIMENT DE QUANTITAT DE FORMES AMB EL LEMA MODEL (RANG 1-199)

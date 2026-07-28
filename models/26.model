@@ -15,6 +15,7 @@ ar 0 [^s]sar VMIP1S0B # ALT:pos
 sar 0 ssar VMIP1S0B # ALT:pas
 nar 0 nnar VMIP1S0B # ALT:nan
 ar i ar VMIP1S0N # canti
+ar i ar VMIP1S0N # canti
 ar es ar VMIP2S00 # cantes
 r 0 ar VMIP3S00 # canta
 r m ar VMIP1P0B # cantam

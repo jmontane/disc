@@ -19,6 +19,7 @@ issar ís issar VMIP1S0B # ALT:abís
 ossar ós ossar VMIP1S0B # ALT:abós
 usar ús usar VMIP1S0B # ALT:abrús
 ussar ús ussar VMIP1S0B # ALT:acamús
+ar i ar VMIP1S0N # ordeni
 ar es ar VMIP2S00 # ordenes
 r 0 ar VMIP3S00 # ordena
 r m ar VMIP1P0B # ordenam

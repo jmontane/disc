@@ -8,6 +8,7 @@ r des çar VMP00PF0 # començades
 ar o çar VMIP1S0C # començo
 çar ce çar VMIP1S0V # comence
 ar 0 çar VMIP1S0B # començ
+çar ci çar VMIP1S0N # comenci
 çar ces çar VMIP2S00 # comences
 r 0 çar VMIP3S00 # comença
 r m çar VMIP1P0B # començam
