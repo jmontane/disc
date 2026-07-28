@@ -85,14 +85,14 @@ MODEL 12 (Lema: 'adscriure'):
 Tots els models verbals (1-199) generen exactament les formes esperades per línia de regla.
 
 
-2b. INCOMPLIMENT DE PARITAT AMB EL LEMA MODEL (RANG 1-199)
+3. INCOMPLIMENT DE QUANTITAT DE FORMES AMB EL LEMA MODEL (RANG 1-199)
 --------------------------------------------------
-Tots els lemes verbals generen el memo nombre de formes que el seu model de referència.
+Tots els lemes verbals generen el mateix nombre de formes que el seu model de referència.
 
 
-3. INCOMPLIMENT DE QUANTITAT DE FORMES DE CORD (RANGS 200-399)
+4. INCOMPLIMENT DE QUANTITAT DE FORMES AMB EL LEMA MODEL (RANGS 200-399)
 --------------------------------------------------
-S'han trobat 10 lemes com un nombre de formes inesperat:
+S'han trobat 10 lemes amb un nombre de formes inesperat:
 
 LÍNIA	LEMA	MODEL	FORMES GENERADES	ESPERADES
 23108	em	666	0			X
@@ -107,6 +107,6 @@ LÍNIA	LEMA	MODEL	FORMES GENERADES	ESPERADES
 67460	vos	666	0			X
 
 
-4. MODELS MANCANTS (ORDENAT PER AFECTACIÓ)
+5. MODELS QUE MANQUEN (ORDENAT PER AFECTACIÓ)
 --------------------------------------------------
-Tots els models requerits estan implementats correctament.
+Tots els models requerits s'han implementat correctament.

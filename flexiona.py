@@ -233,13 +233,13 @@ def processar_diccionari(fitxer_entrades, directori_models, fitxer_sortida, fitx
     Llegeix les entrades, aplica els models, executa totes les validacions
     i genera un informe complet d'incidències a 'problemes.txt'.
     """
-    print("Carregant models en memòria...")
+    print("S'estan carregant models en memòria...")
     models = carregar_models(directori_models)
     
-    print("Verificant integritat dels models verbals (1-199)...")
+    print("S'està verificant la integritat dels models verbals (1-199)...")
     errors_verbals, formes_per_model = validar_models_verbals(models)
     
-    print("Verificant models verbals contra fitxers .test...")
+    print("S'estan verificant els  models verbals contra els fitxers .test...")
     incidencies_tests = validar_tests_verbals(models, directori_tests)
     
     built_lines = 0
@@ -247,7 +247,7 @@ def processar_diccionari(fitxer_entrades, directori_models, fitxer_sortida, fitx
     anomalies_formes = []
     anomalies_paritat_verbal = []
 
-    print("Processant entrades i generant flexions...")
+    print("S'estan processant entrades i generant flexions...")
     with open(fitxer_entrades, 'r', encoding='utf-8') as f_in, \
          open(fitxer_sortida, 'w', encoding='utf-8') as f_out:
              
@@ -353,7 +353,7 @@ def processar_diccionari(fitxer_entrades, directori_models, fitxer_sortida, fitx
         
         f_prob.write("\n\n")
 
-        f_prob.write("2b. INCOMPLIMENT DE PARITAT AMB EL LEMA MODEL (RANG 1-199)\n")
+        f_prob.write("3. INCOMPLIMENT DE QUANTITAT DE FORMES AMB EL LEMA MODEL (RANG 1-199)\n")
         f_prob.write("--------------------------------------------------\n")
         if anomalies_paritat_verbal:
             f_prob.write(f"S'han trobat {len(anomalies_paritat_verbal)} lemes que generen un nombre de formes diferent al seu model de referència:\n\n")
@@ -361,14 +361,14 @@ def processar_diccionari(fitxer_entrades, directori_models, fitxer_sortida, fitx
             for lema, model, generades, esperades, n_lin in anomalies_paritat_verbal:
                 f_prob.write(f"{n_lin}\t{lema}\t{model}\t{generades}\t\t\t{esperades}\n")
         else:
-            f_prob.write("Tots els lemes verbals generen el memo nombre de formes que el seu model de referència.\n")
+            f_prob.write("Tots els lemes verbals generen el mateix nombre de formes que el seu model de referència.\n")
 
         f_prob.write("\n\n")
 
-        f_prob.write("3. INCOMPLIMENT DE QUANTITAT DE FORMES DE CORD (RANGS 200-399)\n")
+        f_prob.write("4. INCOMPLIMENT DE QUANTITAT DE FORMES AMB EL LEMA MODEL (RANGS 200-399)\n")
         f_prob.write("--------------------------------------------------\n")
         if anomalies_formes:
-            f_prob.write(f"S'han trobat {len(anomalies_formes)} lemes com un nombre de formes inesperat:\n\n")
+            f_prob.write(f"S'han trobat {len(anomalies_formes)} lemes amb un nombre de formes inesperat:\n\n")
             f_prob.write("LÍNIA\tLEMA\tMODEL\tFORMES GENERADES\tESPERADES\n")
             for lema, model, generades, esperades, n_lin in anomalies_formes:
                 f_prob.write(f"{n_lin}\t{lema}\t{model}\t{generades}\t\t\t{esperades}\n")
@@ -377,7 +377,7 @@ def processar_diccionari(fitxer_entrades, directori_models, fitxer_sortida, fitx
         
         f_prob.write("\n\n")
         
-        f_prob.write("4. MODELS MANCANTS (ORDENAT PER AFECTACIÓ)\n")
+        f_prob.write("5. MODELS QUE MANQUEN (ORDENAT PER AFECTACIÓ)\n")
         f_prob.write("--------------------------------------------------\n")
         if models_no_trobats:
             f_prob.write(f"Total de codis de model diferents sense implementar: {len(models_no_trobats)}\n\n")
@@ -385,7 +385,7 @@ def processar_diccionari(fitxer_entrades, directori_models, fitxer_sortida, fitx
             for model, quantitat in models_no_trobats.most_common():
                 f_prob.write(f"{model}\t{quantitat}\n")
         else:
-            f_prob.write("Tots els models requerits estan implementats correctament.\n")
+            f_prob.write("Tots els models requerits s'han implementat correctament.\n")
 
     print(f"S'ha generat/actualitzat l'informe detallat a '{fitxer_problemes}'.")
 
