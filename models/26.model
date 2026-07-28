@@ -14,7 +14,7 @@ ar 0 [^s]sar VMIP1S0B # ALT:pos
 ·lar 0 l·lar VMIP1S0B # ALT:instal
 sar 0 ssar VMIP1S0B # ALT:pas
 nar 0 nnar VMIP1S0B # ALT:nan
-ar i ar VMIP1S0S # canti
+ar i ar VMIP1S0N # canti
 r m ar VMIP1P0B # cantam
 ar em ar VMIP1P00 # cantem
 ar es ar VMIP2S00 # cantes

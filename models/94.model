@@ -8,8 +8,8 @@ ir ïdes oir VMP00PF0 # oïdes
 ir eixo oir VMIP1S0C # oeixo
 ir ïsc oir VMIP1S0V # oïsc
 ir ig oir VMIP1S0V # oig
-ir eixi oir VMIP1S0S # oeixi
-ir ïxo oir VMIP1S0N # oïxo
+ir eixi oir VMIP1S0N # oeixi
+ir ïxo oir VMIP1S0W # oïxo
 ir esc oir VMIP1S0Z # oesc
 ir ïm oir VMIP1P00 # oïm
 ir ïxes oir VMIP2S0V # oïxes

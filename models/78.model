@@ -12,8 +12,8 @@ egir ites fregir VMP00PFB # frites
 egir egeixo fregir VMIP1S0C # fregeixo
 egir egisc fregir VMIP1S0V # fregisc
 #egir igc fregir VMIP1S0V # frigc
-egir egeixi fregir VMIP1S0S # fregeixi
-egir egixo fregir VMIP1S0N # fregixo
+egir egeixi fregir VMIP1S0N # fregeixi
+egir egixo fregir VMIP1S0W # fregixo
 egir egesc fregir VMIP1S0Z # fregesc
 egir ig fregir VMIP1S0Z # frig
 egir egim fregir VMIP1P00 # fregim

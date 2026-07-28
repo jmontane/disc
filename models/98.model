@@ -8,8 +8,8 @@ ir ides ir VMP00PF0 # penedides
 ir eixo ir VMIP1S0C # penedeixo
 ir isc ir VMIP1S0V # penedisc
 dir t ir VMIP1S0B # penet
-ir eixi ir VMIP1S0S # penedeixi
-ir ixo ir VMIP1S0N # penedixo
+ir eixi ir VMIP1S0N # penedeixi
+ir ixo ir VMIP1S0W # penedixo
 ir esc ir VMIP1S0Z # penedesc
 ir im ir VMIP1P00 # penedim
 ir ixes ir VMIP2S0V # penedixes

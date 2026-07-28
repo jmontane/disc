@@ -8,8 +8,8 @@ egir egides egir VMP00PF0 # afegides
 egir egeixo egir VMIP1S0C # afegeixo
 egir egisc egir VMIP1S0V # afegisc
 #egir igc egir VMIP1S0V # afigc
-egir egeixi egir VMIP1S0S # afegeixi
-egir egixo egir VMIP1S0N # afegixo
+egir egeixi egir VMIP1S0N # afegeixi
+egir egixo egir VMIP1S0W # afegixo
 egir egesc egir VMIP1S0Z # afegesc
 egir ig egir VMIP1S0Z # afig
 egir egim egir VMIP1P00 # afegim

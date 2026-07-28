@@ -8,8 +8,8 @@ enyir enyides enyir VMP00PF0 # renyides
 enyir enyeixo enyir VMIP1S0C # renyeixo
 enyir enyisc enyir VMIP1S0V # renyisc
 enyir iny enyir VMIP1S0V # riny
-enyir enyeixi enyir VMIP1S0S # renyeixi
-enyir enyixo enyir VMIP1S0N # renyixo
+enyir enyeixi enyir VMIP1S0N # renyeixi
+enyir enyixo enyir VMIP1S0W # renyixo
 enyir enyesc enyir VMIP1S0Z # renyesc
 enyir enyim enyir VMIP1P00 # renyim
 enyir enyixes enyir VMIP2S0V # renyixes

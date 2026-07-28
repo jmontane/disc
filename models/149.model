@@ -8,7 +8,7 @@ ir ides ir VMP00PF0 # brunzides
 ir eixo ir VMIP1S0C # brunzeixo
 ir o ir VMIP1S0C # brunzo
 ir isc ir VMIP1S0V # brunzisc
-ir ixo ir VMIP1S0N # brunzixo
+ir ixo ir VMIP1S0W # brunzixo
 ir 0 ir VMIP1S0Z # brunz
 ir esc ir VMIP1S0Z # brunzesc
 ir im ir VMIP1P00 # brunzim
