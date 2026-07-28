@@ -15,6 +15,31 @@ Això flexiona els lemes del fitxer entrades.txt i desa les formes flexionades a
 
 Els models flexius són regles tipus hunspell. Un fitxer per a cada codi de model flexiu a ./models
 
+# Informació morfològica
+
+La informació morfològica usa la mateixa notacíó que el diccionari català per a LanguageTool. Més info [aquí](https://huggingface.co/datasets/softcatala/catalan-dictionary/blob/main/tagset.md)
+
+## Marques dialectals
+En el cas de les formes verbals, l'últim caràcter del camp amb informació morfològica codifica la informació dialectal:
+
+- 0:general
+- 1:subjuntive_alt1
+- 2:subjuntive_alt2
+- 3:subjuntive_alt3
+- 4:subjuntive_alt4
+- 5:subjuntive_alt5
+- 6:subjuntive_alt6
+- 7:subjuntive_alt7
+- B:balear
+- C:central
+- F:old_fossil
+- N:northern
+- V:valencian
+- W:north-western
+- X:central_and_valencian
+- Y:central_and_balear
+- Z:balear_and_valencian
+
 # Controls
 
 Per als models verbas el flexionador comprova que:
