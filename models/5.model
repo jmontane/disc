@@ -9,80 +9,80 @@ ollir ullo ollir VMIP1S0C # acullo
 ortir urto ortir VMIP1S0C # ALT: surto
 ollir ull ollir VMIP1S0Z # acull
 ortir urt ortir VMIP1S0Z # ALT: surt
-ir im ir VMIP1P00 # acollim
 ollir ulls ollir VMIP2S00 # aculls
 ortir urts ortir VMIP2S00 # ALT: surts
-ir iu ir VMIP2P00 # acolliu
 ollir ull ollir VMIP3S00 # acull
 ortir urt ortir VMIP3S00 # ALT: surt
+ir im ir VMIP1P00 # acollim
+ir iu ir VMIP2P00 # acolliu
 ollir ullen ollir VMIP3P00 # acullen
 ortir urten ortir VMIP3P00 # ALT: surten
 ir ia ir VMII1S00 # acollia
-ir íem ir VMII1P00 # acollíem
 ir ies ir VMII2S00 # acollies
-ir íeu ir VMII2P00 # acollíeu
 ir ia ir VMII3S00 # acollia
+ir íem ir VMII1P00 # acollíem
+ir íeu ir VMII2P00 # acollíeu
 ir ien ir VMII3P00 # acollien
 ir í ir VMIS1S00 # acollí
-ir írem ir VMIS1P00 # acollírem
 ir ires ir VMIS2S00 # acollires
-ir íreu ir VMIS2P00 # acollíreu
 ir í ir VMIS3S00 # acollí
+ir írem ir VMIS1P00 # acollírem
+ir íreu ir VMIS2P00 # acollíreu
 ir iren ir VMIS3P00 # acolliren
 ir iré ir VMIF1S00 # acolliré
-ir irem ir VMIF1P00 # acollirem
 ir iràs ir VMIF2S00 # acolliràs
-ir ireu ir VMIF2P00 # acollireu
 ir irà ir VMIF3S00 # acollirà
+ir irem ir VMIF1P00 # acollirem
+ir ireu ir VMIF2P00 # acollireu
 ir iran ir VMIF3P00 # acolliran
 ir iria ir VMIC1S00 # acolliria
-ir iríem ir VMIC1P00 # acolliríem
 ir iries ir VMIC2S00 # acolliries
-ir iríeu ir VMIC2P00 # acolliríeu
 ir iria ir VMIC3S00 # acolliria
+ir iríem ir VMIC1P00 # acolliríem
+ir iríeu ir VMIC2P00 # acolliríeu
 ir irien ir VMIC3P00 # acollirien
 ollir ulla ollir VMSP1S0V # aculla
 ortir urta ortir VMSP1S0V # ALT: surta
 ollir ulli ollir VMSP1S0Y # aculli
 ortir urti ortir VMSP1S0Y # ALT: surti
-ir im ir VMSP1P00 # acollim
 ollir ulles ollir VMSP2S0V # aculles
 ortir urtes ortir VMSP2S0V # ALT: surtes
 ollir ullis ollir VMSP2S0Y # acullis
 ortir urtis ortir VMSP2S0Y # ALT: surtis
-ir iu ir VMSP2P00 # acolliu
 ollir ulla ollir VMSP3S0V # aculla
 ortir urta ortir VMSP3S0V # ALT: surta
 ollir ulli ollir VMSP3S0Y # aculli
 ortir urti ortir VMSP3S0Y # ALT: surti
+ir im ir VMSP1P00 # acollim
+ir iu ir VMSP2P00 # acolliu
 ollir ullen ollir VMSP3P0V # acullen
 ortir urten ortir VMSP3P0V # ALT: surten
 ollir ullin ollir VMSP3P0Y # acullin
 ortir urtin ortir VMSP3P0Y # ALT: surtin
 ir ís ir VMSI1S01 # acollís
 ir ira ir VMSI1S03 # acollira
-ir íssim ir VMSI1P02 # acollíssim
-ir írem ir VMSI1P03 # acollírem
-ir íssem ir VMSI1P05 # acollíssem
 ir issis ir VMSI2S02 # acollissis
 ir ires ir VMSI2S03 # acollires
 ir isses ir VMSI2S05 # acollisses
+ir ís ir VMSI3S01 # acollís
+ir ira ir VMSI3S03 # acollira
+ir íssim ir VMSI1P02 # acollíssim
+ir írem ir VMSI1P03 # acollírem
+ir íssem ir VMSI1P05 # acollíssem
 ir íssiu ir VMSI2P02 # acollíssiu
 ir íreu ir VMSI2P03 # acollíreu
 ir ísseu ir VMSI2P05 # acollísseu
-ir ís ir VMSI3S01 # acollís
-ir ira ir VMSI3S03 # acollira
 ir issin ir VMSI3P02 # acollissin
 ir iren ir VMSI3P03 # acolliren
 ir issen ir VMSI3P05 # acollissen
-ir im ir VMM01P00 # acollim
 ollir ull ollir VMM02S00 # acull
 ortir urt ortir VMM02S00 # ALT: surt
-ir iu ir VMM02P00 # acolliu
 ollir ulla ollir VMM03S0V # aculla
 ortir urta ortir VMM03S0V # ALT: surta
 ollir ulli ollir VMM03S0Y # aculli
 ortir urti ortir VMM03S0Y # ALT: surti
+ir im ir VMM01P00 # acollim
+ir iu ir VMM02P00 # acolliu
 ollir ullen ollir VMM03P0V # acullen
 ortir urten ortir VMM03P0V # ALT: surten
 ollir ullin ollir VMM03P0Y # acullin

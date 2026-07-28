@@ -28,22 +28,22 @@ r r er VMN00000 # témer
 òmer om er VMIP1S0B #ALT: nom
 úmer um er VMIP1S0B # ALT: fum
 únyer uny er VMIP1S0B # ALT: funy
-émer emem er VMIP1P00 # temem
-òmer omem er VMIP1P00 #ALT: nomem
-úmer umem er VMIP1P00 # ALT: fumem
-únyer unyem er VMIP1P00 # ALT: funyem
 émer ems er VMIP2S00 # tems
 òmer oms er VMIP2S00 #ALT: noms
 úmer ums er VMIP2S00 # ALT: fums
 únyer unys er VMIP2S00 # ALT: funys
-émer emeu er VMIP2P00 # temeu
-òmer omeu er VMIP2P00 #ALT: nomeu
-úmer umeu er VMIP2P00 # ALT: fumeu
-únyer unyeu er VMIP2P00 # ALT: funyeu
 émer em er VMIP3S00 # tem
 òmer om er VMIP3S00 #ALT: nom
 úmer um er VMIP3S00 # ALT: fum
 únyer uny er VMIP3S00 # ALT: funy
+émer emem er VMIP1P00 # temem
+òmer omem er VMIP1P00 #ALT: nomem
+úmer umem er VMIP1P00 # ALT: fumem
+únyer unyem er VMIP1P00 # ALT: funyem
+émer emeu er VMIP2P00 # temeu
+òmer omeu er VMIP2P00 #ALT: nomeu
+úmer umeu er VMIP2P00 # ALT: fumeu
+únyer unyeu er VMIP2P00 # ALT: funyeu
 émer emen er VMIP3P00 # temen
 òmer omen er VMIP3P00 #ALT: nomen
 úmer umen er VMIP3P00 # ALT: fumen
@@ -52,22 +52,22 @@ r r er VMN00000 # témer
 òmer omia er VMII1S00 #ALT: nomia
 úmer umia er VMII1S00 # ALT: fumia
 únyer unyia er VMII1S00 # ALT: funyia
-émer emíem er VMII1P00 # temíem
-òmer omíem er VMII1P00 #ALT: nomíem
-úmer umíem er VMII1P00 # ALT: fumíem
-únyer unyíem er VMII1P00 # ALT: funyíem
 émer emies er VMII2S00 # temies
 òmer omies er VMII2S00 #ALT: nomies
 úmer umies er VMII2S00 # ALT: fumies
 únyer unyies er VMII2S00 # ALT: funyies
-émer emíeu er VMII2P00 # temíeu
-òmer omíeu er VMII2P00 #ALT: nomíeu
-úmer umíeu er VMII2P00 # ALT: fumíeu
-únyer unyíeu er VMII2P00 # ALT: funyíeu
 émer emia er VMII3S00 # temia
 òmer omia er VMII3S00 #ALT: nomia
 úmer umia er VMII3S00 # ALT: fumia
 únyer unyia er VMII3S00 # ALT: funyia
+émer emíem er VMII1P00 # temíem
+òmer omíem er VMII1P00 #ALT: nomíem
+úmer umíem er VMII1P00 # ALT: fumíem
+únyer unyíem er VMII1P00 # ALT: funyíem
+émer emíeu er VMII2P00 # temíeu
+òmer omíeu er VMII2P00 #ALT: nomíeu
+úmer umíeu er VMII2P00 # ALT: fumíeu
+únyer unyíeu er VMII2P00 # ALT: funyíeu
 émer emien er VMII3P00 # temien
 òmer omien er VMII3P00 #ALT: nomien
 úmer umien er VMII3P00 # ALT: fumien
@@ -76,22 +76,22 @@ r r er VMN00000 # témer
 òmer omí er VMIS1S00 #ALT: nomí
 úmer umí er VMIS1S00 # ALT: fumí
 únyer unyí er VMIS1S00 # ALT: funyí
-émer emérem er VMIS1P00 # temérem
-òmer omérem er VMIS1P00 #ALT: nomérem
-úmer umérem er VMIS1P00 # ALT: fumérem
-únyer unyérem er VMIS1P00 # ALT: funyérem
 émer emeres er VMIS2S00 # temeres
 òmer omeres er VMIS2S00 #ALT: nomeres
 úmer umeres er VMIS2S00 # ALT: fumeres
 únyer unyeres er VMIS2S00 # ALT: funyeres
-émer eméreu er VMIS2P00 # teméreu
-òmer oméreu er VMIS2P00 #ALT: noméreu
-úmer uméreu er VMIS2P00 # ALT: fuméreu
-únyer unyéreu er VMIS2P00 # ALT: funyéreu
 émer emé er VMIS3S00 # temé
 òmer omé er VMIS3S00 #ALT: nomé
 úmer umé er VMIS3S00 # ALT: fumé
 únyer unyé er VMIS3S00 # ALT: funyé
+émer emérem er VMIS1P00 # temérem
+òmer omérem er VMIS1P00 #ALT: nomérem
+úmer umérem er VMIS1P00 # ALT: fumérem
+únyer unyérem er VMIS1P00 # ALT: funyérem
+émer eméreu er VMIS2P00 # teméreu
+òmer oméreu er VMIS2P00 #ALT: noméreu
+úmer uméreu er VMIS2P00 # ALT: fuméreu
+únyer unyéreu er VMIS2P00 # ALT: funyéreu
 émer emeren er VMIS3P00 # temeren
 òmer omeren er VMIS3P00 #ALT: nomeren
 úmer umeren er VMIS3P00 # ALT: fumeren
@@ -100,22 +100,22 @@ r r er VMN00000 # témer
 òmer omeré er VMIF1S00 #ALT: nomeré
 úmer umeré er VMIF1S00 # ALT: fumeré
 únyer unyeré er VMIF1S00 # ALT: funyeré
-émer emerem er VMIF1P00 # temerem
-òmer omerem er VMIF1P00 #ALT: nomerem
-úmer umerem er VMIF1P00 # ALT: fumerem
-únyer unyerem er VMIF1P00 # ALT: funyerem
 émer emeràs er VMIF2S00 # temeràs
 òmer omeràs er VMIF2S00 #ALT: nomeràs
 úmer umeràs er VMIF2S00 # ALT: fumeràs
 únyer unyeràs er VMIF2S00 # ALT: funyeràs
-émer emereu er VMIF2P00 # temereu
-òmer omereu er VMIF2P00 #ALT: nomereu
-úmer umereu er VMIF2P00 # ALT: fumereu
-únyer unyereu er VMIF2P00 # ALT: funyereu
 émer emerà er VMIF3S00 # temerà
 òmer omerà er VMIF3S00 #ALT: nomerà
 úmer umerà er VMIF3S00 # ALT: fumerà
 únyer unyerà er VMIF3S00 # ALT: funyerà
+émer emerem er VMIF1P00 # temerem
+òmer omerem er VMIF1P00 #ALT: nomerem
+úmer umerem er VMIF1P00 # ALT: fumerem
+únyer unyerem er VMIF1P00 # ALT: funyerem
+émer emereu er VMIF2P00 # temereu
+òmer omereu er VMIF2P00 #ALT: nomereu
+úmer umereu er VMIF2P00 # ALT: fumereu
+únyer unyereu er VMIF2P00 # ALT: funyereu
 émer emeran er VMIF3P00 # temeran
 òmer omeran er VMIF3P00 #ALT: nomeran
 úmer umeran er VMIF3P00 # ALT: fumeran
@@ -124,22 +124,22 @@ r r er VMN00000 # témer
 òmer omeria er VMIC1S00 #ALT: nomeria
 úmer umeria er VMIC1S00 # ALT: fumeria
 únyer unyeria er VMIC1S00 # ALT: funyeria
-émer emeríem er VMIC1P00 # temeríem
-òmer omeríem er VMIC1P00 #ALT: nomeríem
-úmer umeríem er VMIC1P00 # ALT: fumeríem
-únyer unyeríem er VMIC1P00 # ALT: funyeríem
 émer emeries er VMIC2S00 # temeries
 òmer omeries er VMIC2S00 #ALT: nomeries
 úmer umeries er VMIC2S00 # ALT: fumeries
 únyer unyeries er VMIC2S00 # ALT: funyeries
-émer emeríeu er VMIC2P00 # temeríeu
-òmer omeríeu er VMIC2P00 #ALT: nomeríeu
-úmer umeríeu er VMIC2P00 # ALT: fumeríeu
-únyer unyeríeu er VMIC2P00 # ALT: funyeríeu
 émer emeria er VMIC3S00 # temeria
 òmer omeria er VMIC3S00 #ALT: nomeria
 úmer umeria er VMIC3S00 # ALT: fumeria
 únyer unyeria er VMIC3S00 # ALT: funyeria
+émer emeríem er VMIC1P00 # temeríem
+òmer omeríem er VMIC1P00 #ALT: nomeríem
+úmer umeríem er VMIC1P00 # ALT: fumeríem
+únyer unyeríem er VMIC1P00 # ALT: funyeríem
+émer emeríeu er VMIC2P00 # temeríeu
+òmer omeríeu er VMIC2P00 #ALT: nomeríeu
+úmer umeríeu er VMIC2P00 # ALT: fumeríeu
+únyer unyeríeu er VMIC2P00 # ALT: funyeríeu
 émer emerien er VMIC3P00 # temerien
 òmer omerien er VMIC3P00 #ALT: nomerien
 úmer umerien er VMIC3P00 # ALT: fumerien
@@ -152,10 +152,6 @@ r r er VMN00000 # témer
 òmer omi er VMSP1S0Y #ALT: nomi
 úmer umi er VMSP1S0Y # ALT: fumi
 únyer unyi er VMSP1S0Y # ALT: funyi
-émer emem er VMSP1P00 # temem
-òmer omem er VMSP1P00 #ALT: nomem
-úmer umem er VMSP1P00 # ALT: fumem
-únyer unyem er VMSP1P00 # ALT: funyem
 émer emes er VMSP2S0V # temes
 òmer omes er VMSP2S0V #ALT: nomes
 úmer umes er VMSP2S0V # ALT: fumes
@@ -164,10 +160,6 @@ r r er VMN00000 # témer
 òmer omis er VMSP2S0Y #ALT: nomis
 úmer umis er VMSP2S0Y # ALT: fumis
 únyer unyis er VMSP2S0Y # ALT: funyis
-émer emeu er VMSP2P00 # temeu
-òmer omeu er VMSP2P00 #ALT: nomeu
-úmer umeu er VMSP2P00 # ALT: fumeu
-únyer unyeu er VMSP2P00 # ALT: funyeu
 émer ema er VMSP3S0V # tema
 òmer oma er VMSP3S0V #ALT: noma
 úmer uma er VMSP3S0V # ALT: fuma
@@ -176,6 +168,14 @@ r r er VMN00000 # témer
 òmer omi er VMSP3S0Y #ALT: nomi
 úmer umi er VMSP3S0Y # ALT: fumi
 únyer unyi er VMSP3S0Y # ALT: funyi
+émer emem er VMSP1P00 # temem
+òmer omem er VMSP1P00 #ALT: nomem
+úmer umem er VMSP1P00 # ALT: fumem
+únyer unyem er VMSP1P00 # ALT: funyem
+émer emeu er VMSP2P00 # temeu
+òmer omeu er VMSP2P00 #ALT: nomeu
+úmer umeu er VMSP2P00 # ALT: fumeu
+únyer unyeu er VMSP2P00 # ALT: funyeu
 émer emen er VMSP3P0V # temen
 òmer omen er VMSP3P0V #ALT: nomen
 úmer umen er VMSP3P0V # ALT: fumen
@@ -192,18 +192,6 @@ r r er VMN00000 # témer
 òmer omera er VMSI1S03 #ALT: nomera
 úmer umera er VMSI1S03 # ALT: fumera
 únyer unyera er VMSI1S03 # ALT: funyera
-émer eméssim er VMSI1P02 # teméssim
-òmer oméssim er VMSI1P02 #ALT: noméssim
-úmer uméssim er VMSI1P02 # ALT: fuméssim
-únyer unyéssim er VMSI1P02 # ALT: funyéssim
-émer emérem er VMSI1P03 # temérem
-òmer omérem er VMSI1P03 #ALT: nomérem
-úmer umérem er VMSI1P03 # ALT: fumérem
-únyer unyérem er VMSI1P03 # ALT: funyérem
-émer eméssem er VMSI1P05 # teméssem
-òmer oméssem er VMSI1P05 #ALT: noméssem
-úmer uméssem er VMSI1P05 # ALT: fuméssem
-únyer unyéssem er VMSI1P05 # ALT: funyéssem
 émer emessis er VMSI2S02 # temessis
 òmer omessis er VMSI2S02 #ALT: nomessis
 úmer umessis er VMSI2S02 # ALT: fumessis
@@ -216,6 +204,26 @@ r r er VMN00000 # témer
 òmer omesses er VMSI2S05 #ALT: nomesses
 úmer umesses er VMSI2S05 # ALT: fumesses
 únyer unyesses er VMSI2S05 # ALT: funyesses
+émer emés er VMSI3S01 # temés
+òmer omés er VMSI3S01 #ALT: només
+úmer umés er VMSI3S01 # ALT: fumés
+únyer unyés er VMSI3S01 # ALT: funyés
+émer emera er VMSI3S03 # temera
+òmer omera er VMSI3S03 #ALT: nomera
+úmer umera er VMSI3S03 # ALT: fumera
+únyer unyera er VMSI3S03 # ALT: funyera
+émer eméssim er VMSI1P02 # teméssim
+òmer oméssim er VMSI1P02 #ALT: noméssim
+úmer uméssim er VMSI1P02 # ALT: fuméssim
+únyer unyéssim er VMSI1P02 # ALT: funyéssim
+émer emérem er VMSI1P03 # temérem
+òmer omérem er VMSI1P03 #ALT: nomérem
+úmer umérem er VMSI1P03 # ALT: fumérem
+únyer unyérem er VMSI1P03 # ALT: funyérem
+émer eméssem er VMSI1P05 # teméssem
+òmer oméssem er VMSI1P05 #ALT: noméssem
+úmer uméssem er VMSI1P05 # ALT: fuméssem
+únyer unyéssem er VMSI1P05 # ALT: funyéssem
 émer eméssiu er VMSI2P02 # teméssiu
 òmer oméssiu er VMSI2P02 #ALT: noméssiu
 úmer uméssiu er VMSI2P02 # ALT: fuméssiu
@@ -228,14 +236,6 @@ r r er VMN00000 # témer
 òmer omésseu er VMSI2P05 #ALT: nomésseu
 úmer umésseu er VMSI2P05 # ALT: fumésseu
 únyer unyésseu er VMSI2P05 # ALT: funyésseu
-émer emés er VMSI3S01 # temés
-òmer omés er VMSI3S01 #ALT: només
-úmer umés er VMSI3S01 # ALT: fumés
-únyer unyés er VMSI3S01 # ALT: funyés
-émer emera er VMSI3S03 # temera
-òmer omera er VMSI3S03 #ALT: nomera
-úmer umera er VMSI3S03 # ALT: fumera
-únyer unyera er VMSI3S03 # ALT: funyera
 émer emessin er VMSI3P02 # temessin
 òmer omessin er VMSI3P02 #ALT: nomessin
 úmer umessin er VMSI3P02 # ALT: fumessin
@@ -248,18 +248,10 @@ r r er VMN00000 # témer
 òmer omessen er VMSI3P05 #ALT: nomessen
 úmer umessen er VMSI3P05 # ALT: fumessen
 únyer unyessen er VMSI3P05 # ALT: funyessen
-émer emem er VMM01P00 # temem
-òmer omem er VMM01P00 #ALT: nomem
-úmer umem er VMM01P00 # ALT: fumem
-únyer unyem er VMM01P00 # ALT: funyem
 émer em er VMM02S00 # tem
 òmer om er VMM02S00 #ALT: nom
 úmer um er VMM02S00 # ALT: fum
 únyer uny er VMM02S00 # ALT: funy
-émer emeu er VMM02P00 # temeu
-òmer omeu er VMM02P00 #ALT: nomeu
-úmer umeu er VMM02P00 # ALT: fumeu
-únyer unyeu er VMM02P00 # ALT: funyeu
 émer ema er VMM03S0V # tema
 òmer oma er VMM03S0V #ALT: noma
 úmer uma er VMM03S0V # ALT: fuma
@@ -268,6 +260,14 @@ r r er VMN00000 # témer
 òmer omi er VMM03S0Y #ALT: nomi
 úmer umi er VMM03S0Y # ALT: fumi
 únyer unyi er VMM03S0Y # ALT: funyi
+émer emem er VMM01P00 # temem
+òmer omem er VMM01P00 #ALT: nomem
+úmer umem er VMM01P00 # ALT: fumem
+únyer unyem er VMM01P00 # ALT: funyem
+émer emeu er VMM02P00 # temeu
+òmer omeu er VMM02P00 #ALT: nomeu
+úmer umeu er VMM02P00 # ALT: fumeu
+únyer unyeu er VMM02P00 # ALT: funyeu
 émer emen er VMM03P0V # temen
 òmer omen er VMM03P0V #ALT: nomen
 úmer umen er VMM03P0V # ALT: fumen

@@ -53,9 +53,9 @@ def obtenir_clau_ordenacio(linea):
         sub3 = 0
     else:  # Per a la resta de grups
         # Posició 5: 1, 2, 3
-        ordre_pos5 = int(pos5) if pos5 in "123" else 0
+        ordre_pos6 = int(pos5) if pos5 in "123" else 0
         # Posició 6: S (1) primer que P (2)
-        ordre_pos6 = 1 if pos6 == "S" else (2 if pos6 == "P" else 3)
+        ordre_pos5 = 1 if pos6 == "S" else (2 if pos6 == "P" else 3)
         # Posicio 8: 1, 2, 3, 4, 5, 6
         if pos8 in "123456":
         	ordre_pos8 = int(pos8) 
