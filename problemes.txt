@@ -4,7 +4,7 @@ INFORME D'INCIDÈNCIES I ANOMALIES DE FLEXIÓ
 
 1. DISCREPÀNCIES AMB FITXERS DE TEST (RANG 1-199)
 --------------------------------------------------
-S'han trobat 23 models verbals que no coincideixen amb el seu fitxer .test:
+S'han trobat 22 models verbals que no coincideixen amb el seu fitxer .test:
 
 MODEL 121 (Lema: 'venir'):
   - Formes que ¿FALTEN? (4): venguessen, venguesses, venguéssem, venguésseu
@@ -44,9 +44,6 @@ MODEL 122 (Lema: 'vestir'):
 
 MODEL 71 (Lema: 'ser'):
   - Formes que ¿FALTEN? (4): set, seta, setes, sets
-
-MODEL 101 (Lema: 'pruir'):
-  - Formes que ¿SOBREN? (4): pruíssem, pruísseu, pruïssen, pruïsses
 
 MODEL 115 (Lema: 'tenir'):
   - Formes que ¿FALTEN? (4): tenguessen, tenguesses, tenguéssem, tenguésseu
