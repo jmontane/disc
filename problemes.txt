@@ -18,7 +18,7 @@ MODEL 123 (Lema: 'veure'):
 
 MODEL 54 (Lema: 'deseixir'):
   - Formes que ¿FALTEN? (4): desisquiren, desisquires, desisquírem, desisquíreu
-  - Formes que ¿SOBREN? (9): deseixiguem, deseixigueu, deseixira, desisquessen, desisquesses, desisqué, desisqués, desisquéssem, desisquésseu
+  - Formes que ¿SOBREN? (7): deseixira, desisquessen, desisquesses, desisqué, desisqués, desisquéssem, desisquésseu
 
 MODEL 90 (Lema: 'renàixer'):
   - Formes que ¿FALTEN? (4): renaixessen, renaixesses, renaixéssem, renaixésseu
@@ -92,7 +92,7 @@ Tots els lemes verbals generen el memo nombre de formes que el seu model de refe
 
 3. INCOMPLIMENT DE QUANTITAT DE FORMES DE CORD (RANGS 200-399)
 --------------------------------------------------
-S'han trobat 11 lemes com un nombre de formes inesperat:
+S'han trobat 10 lemes com un nombre de formes inesperat:
 
 LÍNIA	LEMA	MODEL	FORMES GENERADES	ESPERADES
 23108	em	666	0			X
@@ -101,7 +101,6 @@ LÍNIA	LEMA	MODEL	FORMES GENERADES	ESPERADES
 25168	ens	666	0			X
 26168	es	666	0			X
 26169	es	666	0			X
-27031	escrú	666	0			X
 46502	nos	666	0			X
 63823	ton	666	0			X
 65939	us	666	0			X

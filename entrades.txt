@@ -27028,7 +27028,7 @@ escrostonar|v.|26
 escrot|m.|201
 escrotal|adj.|201
 escrotocele|f.|201
-escrú|adj.|666
+escrú|adj.|615
 escruix|loc. adv.|500
 escruixidor|adj.|301
 escruiximent|m.|201
