@@ -11,7 +11,7 @@ MODEL 121 (Lema: 'venir'):
 
 MODEL 105 (Lema: 'reeixir'):
   - Formes que ¿FALTEN? (4): reïsquiren, reïsquires, reïsquírem, reïsquíreu
-  - Formes que ¿SOBREN? (5): reeixira, reïsqui, reïsquin, reïsquis, reïsqué
+  - Formes que ¿SOBREN? (4): reeixira, reïsqui, reïsquin, reïsquis
 
 MODEL 123 (Lema: 'veure'):
   - Formes que ¿FALTEN? (2): vessen, vesses
