@@ -18,10 +18,10 @@ ossar òs ossar VMIP1S0B # ALT:adòs
 ar i ar VMIP1S0N  # ofreni
 ar es ar VMIP2S00  # ofrenes
 r 0 ar VMIP3S00  # ofrena
-r m ar VMIP1P0B  # ofrenam
 ar em ar VMIP1P00  # ofrenem
-r u ar VMIP2P0B  # ofrenau
+r m ar VMIP1P0B  # ofrenam
 ar eu ar VMIP2P00  # ofreneu
+r u ar VMIP2P0B  # ofrenau
 ar en ar VMIP3P00  # ofrenen
 r va ar VMII1S00  # ofrenava
 r ves ar VMII2S00  # ofrenaves

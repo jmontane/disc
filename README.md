@@ -23,22 +23,24 @@ La informació morfològica usa la mateixa notacíó que el diccionari català p
 En el cas de les formes verbals, l'últim caràcter del camp amb informació morfològica codifica la informació dialectal:
 
 - 0:general
-- 1:subjuntive_alt1
-- 2:subjuntive_alt2
-- 3:subjuntive_alt3
-- 4:subjuntive_alt4
-- 5:subjuntive_alt5
-- 6:subjuntive_alt6
-- 7:subjuntive_alt7
-- B:balear
 - C:central
-- F:old_fossil
-- N:northern
 - V:valencian
+- B:balear
 - W:north-western
+- N:northern
+- A:algherese
+- F:old_fossil
+- U:valencian_and_north-western
 - X:central_and_valencian
 - Y:central_and_balear
 - Z:balear_and_valencian
+- 1:central_and_northern_and_north-western
+- 2:central_and_north-western
+- 3:valencian
+- 4:balear
+- 5:valencian_and_north-western
+- 6:balear(restricted)_and_valencian(formal)
+- 7:balear
 
 # Controls
 

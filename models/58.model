@@ -8,10 +8,10 @@ ir ites dir VMP00PF0 # dites
 ir ic dir VMIP1S00 # dic
 ir ius dir VMIP2S00 # dius
 ir iu dir VMIP3S00 # diu
-ir eim dir VMIP1P0B # deim
 ir iem dir VMIP1P00 # diem
-ir eis dir VMIP2P0B # deis
+ir eim dir VMIP1P0B # deim
 ir ieu dir VMIP2P00 # dieu
+ir eis dir VMIP2P0B # deis
 ir iuen dir VMIP3P00 # diuen
 ir eia dir VMII1S00 # deia
 ir eies dir VMII2S00 # deies
@@ -65,8 +65,8 @@ ir iguésseu dir VMSI2P05 # diguésseu
 ir iguessin dir VMSI3P02 # diguessin
 ir igueren dir VMSI3P03 # digueren
 ir iguessen dir VMSI3P05 # diguessen
-ir is dir VMM02S0V # dis
 ir igues dir VMM02S00 # digues
+ir is dir VMM02S0V # dis
 ir iga dir VMM03S0V # diga
 ir igui dir VMM03S0Y # digui
 ir iguem dir VMM01P00 # diguem

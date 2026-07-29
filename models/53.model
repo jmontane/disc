@@ -43,10 +43,10 @@ osir uses osir VMSP2S0V # descuses
 osir usis osir VMSP2S0Y # descusis
 osir usa osir VMSP3S0V # descusa
 osir usi osir VMSP3S0Y # descusi
-osir osiguem osir VMSP1P0B # descosiguem
 osir osim osir VMSP1P00 # descosim
-osir osigueu osir VMSP2P0B # descosigueu
+osir osiguem osir VMSP1P0B # descosiguem
 osir osiu osir VMSP2P00 # descosiu
+osir osigueu osir VMSP2P0B # descosigueu
 osir usen osir VMSP3P0V # descusen
 osir usin osir VMSP3P0Y # descusin
 osir osís osir VMSI1S01 # descosís
@@ -68,8 +68,8 @@ osir osissen osir VMSI3P05 # descosissen
 osir ús osir VMM02S00 # descús
 osir usa osir VMM03S0V # descusa
 osir usi osir VMM03S0Y # descusi
-osir osiguem osir VMM01P0B # descosiguem
 osir osim osir VMM01P00 # descosim
+osir osiguem osir VMM01P0B # descosiguem
 osir osiu osir VMM02P00 # descosiu
 osir usen osir VMM03P0V # descusen
 osir usin osir VMM03P0Y # descusin

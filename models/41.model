@@ -8,10 +8,10 @@ ir ites ir VMP00PF0 # contradites
 ir ic ir VMIP1S00 # contradic
 ir ius ir VMIP2S00 # contradius
 ir iu ir VMIP3S00 # contradiu
-ir eim ir VMIP1P0B # contradeim
 ir iem ir VMIP1P00 # contradiem
-ir eis ir VMIP2P0B # contradeis
+ir eim ir VMIP1P0B # contradeim
 ir ieu ir VMIP2P00 # contradieu
+ir eis ir VMIP2P0B # contradeis
 ir iuen ir VMIP3P00 # contradiuen
 ir eia ir VMII1S00 # contradeia
 ir eies ir VMII2S00 # contradeies
@@ -65,8 +65,8 @@ ir iguésseu ir VMSI2P05 # contradiguésseu
 ir iguessin ir VMSI3P02 # contradiguessin
 ir igueren ir VMSI3P03 # contradigueren
 ir iguessen ir VMSI3P05 # contradiguessen
-ir ís ir VMM02S0V # contradís
 ir igues ir VMM02S00 # contradigues
+ir ís ir VMM02S0V # contradís
 ir iga ir VMM03S0V # contradiga
 ir igui ir VMM03S0Y # contradigui
 ir iguem ir VMM01P00 # contradiguem

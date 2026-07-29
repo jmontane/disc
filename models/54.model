@@ -49,12 +49,12 @@ eixir isques eixir VMSP2S0V # desisques
 eixir ixis eixir VMSP2S0Y # desixis
 eixir isca eixir VMSP3S0V # desisca
 eixir ixi eixir VMSP3S0Y # desixi
-eixir eixiguem eixir VMSP1P0B # deseixiguem
 eixir eixim eixir VMSP1P00 # deseixim
 eixir isquem eixir VMSP1P00 # desisquem
-eixir eixigueu eixir VMSP2P0B # deseixigueu
+eixir eixiguem eixir VMSP1P0B # deseixiguem
 eixir eixiu eixir VMSP2P00 # deseixiu
 eixir isqueu eixir VMSP2P00 # desisqueu
+eixir eixigueu eixir VMSP2P0B # deseixigueu
 eixir isquen eixir VMSP3P0V # desisquen
 eixir ixin eixir VMSP3P0Y # desixin
 eixir eixís eixir VMSI1S01 # deseixís

@@ -43,10 +43,10 @@ ir es ir VMSP2S0V # dormes
 r s ir VMSP2S0Y # dormis
 ir a ir VMSP3S0V # dorma
 r 0 ir VMSP3S0Y # dormi
-r guem ir VMSP1P0B # dormiguem
 r m ir VMSP1P00 # dormim
-r gueu ir VMSP2P0B # dormigueu
+r guem ir VMSP1P0B # dormiguem
 r u ir VMSP2P00 # dormiu
+r gueu ir VMSP2P0B # dormigueu
 ir en ir VMSP3P0V # dormen
 r n ir VMSP3P0Y # dormin
 ir ís ir VMSI1S01 # dormís
@@ -68,8 +68,8 @@ r ssen ir VMSI3P05 # dormissen
 ir 0 ir VMM02S00 # dorm
 ir a ir VMM03S0V # dorma
 r 0 ir VMM03S0Y # dormi
-r guem ir VMM01P0B # dormiguem
 r m ir VMM01P00 # dormim
+r guem ir VMM01P0B # dormiguem
 r u ir VMM02P00 # dormiu
 ir en ir VMM03P0V # dormen
 r n ir VMM03P0Y # dormin

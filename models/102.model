@@ -43,10 +43,10 @@ dir des dir VMSP2S0V # pudes
 dir dis dir VMSP2S0Y # pudis
 dir da dir VMSP3S0V # puda
 dir di dir VMSP3S0Y # pudi
-dir diguem dir VMSP1P0B # pudiguem
 dir dim dir VMSP1P00 # pudim
-dir digueu dir VMSP2P0B # pudigueu
+dir diguem dir VMSP1P0B # pudiguem
 dir diu dir VMSP2P00 # pudiu
+dir digueu dir VMSP2P0B # pudigueu
 dir den dir VMSP3P0V # puden
 dir din dir VMSP3P0Y # pudin
 dir dís dir VMSI1S01 # pudís

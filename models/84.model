@@ -11,10 +11,10 @@ ar u ar VMIP1S0B # llou
 ar ï ar VMIP1S0N # lloï
 ar es ar VMIP2S00 # lloes
 r 0 ar VMIP3S00 # lloa
-r m ar VMIP1P0B # lloam
 ar em ar VMIP1P00 # lloem
-r u ar VMIP2P0B # lloau
+r m ar VMIP1P0B # lloam
 ar eu ar VMIP2P00 # lloeu
+r u ar VMIP2P0B # lloau
 ar en ar VMIP3P00 # lloen
 r va ar VMII1S00 # lloava
 r ves ar VMII2S00 # lloaves

@@ -11,10 +11,10 @@ ar 0 çar VMIP1S0B # començ
 çar ci çar VMIP1S0N # comenci
 çar ces çar VMIP2S00 # comences
 r 0 çar VMIP3S00 # comença
-r m çar VMIP1P0B # començam
 çar cem çar VMIP1P00 # comencem
-r u çar VMIP2P0B # començau
+r m çar VMIP1P0B # començam
 çar ceu çar VMIP2P00 # comenceu
+r u çar VMIP2P0B # començau
 çar cen çar VMIP3P00 # comencen
 r va çar VMII1S00 # començava
 r ves çar VMII2S00 # començaves

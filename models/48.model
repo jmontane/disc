@@ -11,10 +11,10 @@ ar i ar VMIP1S0B # crei
 ar ï ar VMIP1S0N # creï
 ar es ar VMIP2S00 # crees
 r 0 ar VMIP3S00 # crea
-r m ar VMIP1P0B # cream
 ar em ar VMIP1P00 # creem
-r u ar VMIP2P0B # creau
+r m ar VMIP1P0B # cream
 ar eu ar VMIP2P00 # creeu
+r u ar VMIP2P0B # creau
 ar en ar VMIP3P00 # creen
 r va ar VMII1S00 # creava
 r ves ar VMII2S00 # creaves

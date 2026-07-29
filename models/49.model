@@ -43,10 +43,10 @@ ir es uixir VMSP2S0V # cruixes
 ir is uixir VMSP2S0Y # cruixis
 ir a uixir VMSP3S0V # cruixa
 ir i uixir VMSP3S0Y # cruixi
-ir iguem uixir VMSP1P0B # cruixiguem
 ir im uixir VMSP1P00 # cruixim
-ir igueu uixir VMSP2P0B # cruixigueu
+ir iguem uixir VMSP1P0B # cruixiguem
 ir iu uixir VMSP2P00 # cruixiu
+ir igueu uixir VMSP2P0B # cruixigueu
 ir en uixir VMSP3P0V # cruixen
 ir in uixir VMSP3P0Y # cruixin
 ir ís uixir VMSI1S01 # cruixís
@@ -68,8 +68,8 @@ ir issen uixir VMSI3P05 # cruixissen
 ir 0 uixir VMM02S00 # cruix
 ir a uixir VMM03S0V # cruixa
 ir i uixir VMM03S0Y # cruixi
-ir iguem uixir VMM01P0B # cruixiguem
 ir im uixir VMM01P00 # cruixim
+ir iguem uixir VMM01P0B # cruixiguem
 ir iu uixir VMM02P00 # cruixiu
 ir en uixir VMM03P0V # cruixen
 ir in uixir VMM03P0Y # cruixin

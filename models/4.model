@@ -1,8 +1,8 @@
 # 4 abstraure
 [ae]ure aure re VMN00000 # abstraure
 [ae]ure eure re VMN00000 # abstreure
-[ae]ure aent re VMG0000V # abstraent
 [ae]ure aient re VMG00000 # abstraient
+[ae]ure aent re VMG0000V # abstraent
 [ae]ure et re VMP00SM0 # abstret
 [ae]ure eta re VMP00SF0 # abstreta
 [ae]ure ets re VMP00PM0 # abstrets
@@ -13,12 +13,12 @@
 [ae]ure eus re VMIP2S00 # abstreus
 [ae]ure au re VMIP3S00 # abstrau
 [ae]ure eu re VMIP3S00 # abstreu
+[ae]ure aiem re VMIP1P00 # abstraiem
 [ae]ure aem re VMIP1P0V # abstraem
 [ae]ure eim re VMIP1P0B # abstreim
-[ae]ure aiem re VMIP1P00 # abstraiem
+[ae]ure aieu re VMIP2P00 # abstraieu
 [ae]ure aeu re VMIP2P0V # abstraeu
 [ae]ure eis re VMIP2P0B # abstreis
-[ae]ure aieu re VMIP2P00 # abstraieu
 [ae]ure auen re VMIP3P00 # abstrauen
 [ae]ure euen re VMIP3P00 # abstreuen
 [ae]ure eia re VMII1S00 # abstreia
@@ -88,9 +88,9 @@
 [ae]ure agui re VMM03S0Y # abstragui
 [ae]ure egui re VMM03S0Y # abstregui
 [ae]ure aguem re VMM01P00 # abstraguem
+[ae]ure aieu re VMM02P00 # abstraieu
 [ae]ure aeu re VMM02P0V # abstraeu
 [ae]ure eis re VMM02P0B # abstreis
-[ae]ure aieu re VMM02P00 # abstraieu
 [ae]ure aguen re VMM03P0V # abstraguen
 [ae]ure eguen re VMM03P0V # abstreguen
 [ae]ure aguin re VMM03P0Y # abstraguin

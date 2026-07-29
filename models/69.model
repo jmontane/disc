@@ -11,10 +11,10 @@ ar 0 ar VMIP1S0B # esglai
 iar ï ar VMIP1S0N # esglaï
 ar es ar VMIP2S00 # esglaies
 r 0 ar VMIP3S00 # esglaia
-r m ar VMIP1P0B # esglaiam
 ar em ar VMIP1P00 # esglaiem
-r u ar VMIP2P0B # esglaiau
+r m ar VMIP1P0B # esglaiam
 ar eu ar VMIP2P00 # esglaieu
+r u ar VMIP2P0B # esglaiau
 ar en ar VMIP3P00 # esglaien
 r va ar VMII1S00 # esglaiava
 r ves ar VMII2S00 # esglaiaves

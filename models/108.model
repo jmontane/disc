@@ -13,10 +13,10 @@ iure istes iure VMP00PFV # ristes
 iure ic iure VMIP1S00 # ric
 iure ius iure VMIP2S00 # rius
 iure iu iure VMIP3S00 # riu
-iure eim iure VMIP1P0B # reim
 iure iem iure VMIP1P00 # riem
-iure eis iure VMIP2P0B # reis
+iure eim iure VMIP1P0B # reim
 iure ieu iure VMIP2P00 # rieu
+iure eis iure VMIP2P0B # reis
 iure iuen iure VMIP3P00 # riuen
 iure eia iure VMII1S00 # reia
 iure eies iure VMII2S00 # reies
@@ -74,7 +74,7 @@ iure iu iure VMM02S00 # riu
 iure iga iure VMM03S0V # riga
 iure igui iure VMM03S0Y # rigui
 iure iguem iure VMM01P00 # riguem
-iure eis iure VMM02P0B # reis
 iure ieu iure VMM02P00 # rieu
+iure eis iure VMM02P0B # reis
 iure iguen iure VMM03P0V # riguen
 iure iguin iure VMM03P0Y # riguin

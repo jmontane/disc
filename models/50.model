@@ -8,10 +8,10 @@ ar ades ar VMP00PF0 # dades
 ar o ar VMIP1S00 # do
 ar as ar VMIP2S00 # das
 ar a ar VMIP3S00 # da
-ar am ar VMIP1P0B # dam
 ar em ar VMIP1P00 # dem
-ar au ar VMIP2P0B # dau
+ar am ar VMIP1P0B # dam
 ar eu ar VMIP2P00 # deu
+ar au ar VMIP2P0B # dau
 ar an ar VMIP3P00 # dan
 ar ava ar VMII1S00 # dava
 ar aves ar VMII2S00 # daves

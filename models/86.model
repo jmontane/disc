@@ -11,10 +11,10 @@ ar 0 jar VMIP1S0B # menj
 jar gi jar VMIP1S0N # mengi
 jar ges jar VMIP2S00 # menges
 r 0 jar VMIP3S00 # menja
-r m jar VMIP1P0B # menjam
 jar gem jar VMIP1P00 # mengem
-r u jar VMIP2P0B # menjau
+r m jar VMIP1P0B # menjam
 jar geu jar VMIP2P00 # mengeu
+r u jar VMIP2P0B # menjau
 jar gen jar VMIP3P00 # mengen
 r va jar VMII1S00 # menjava
 r ves jar VMII2S00 # menjaves

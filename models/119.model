@@ -11,10 +11,10 @@ ar 0 car VMIP1S0B # trenc
 car qui car VMIP1S0N # trenqui
 car ques car VMIP2S00 # trenques
 r 0 car VMIP3S00 # trenca
-r m car VMIP1P0B # trencam
 car quem car VMIP1P00 # trenquem
-r u car VMIP2P0B # trencau
+r m car VMIP1P0B # trencam
 car queu car VMIP2P00 # trenqueu
+r u car VMIP2P0B # trencau
 car quen car VMIP3P00 # trenquen
 r va car VMII1S00 # trencava
 r ves car VMII2S00 # trencaves

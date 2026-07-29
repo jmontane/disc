@@ -11,10 +11,10 @@ gar c gar VMIP1S0B # abric
 gar gui gar VMIP1S0N # abrigui
 gar gues gar VMIP2S00 # abrigues
 r 0 gar VMIP3S00 # abriga
-r m gar VMIP1P0B # abrigam
 gar guem gar VMIP1P00 # abriguem
-r u gar VMIP2P0B # abrigau
+r m gar VMIP1P0B # abrigam
 gar gueu gar VMIP2P00 # abrigueu
+r u gar VMIP2P0B # abrigau
 gar guen gar VMIP3P00 # abriguen
 r va gar VMII1S00 # abrigava
 r ves gar VMII2S00 # abrigaves

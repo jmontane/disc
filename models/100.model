@@ -11,10 +11,10 @@ ar 0 ar VMIP1S0B # preg
 ar ui ar VMIP1S0N # pregui
 ar ues ar VMIP2S00 # pregues
 r 0 ar VMIP3S00 # prega
-r m ar VMIP1P0B # pregam
 ar uem ar VMIP1P00 # preguem
-r u ar VMIP2P0B # pregau
+r m ar VMIP1P0B # pregam
 ar ueu ar VMIP2P00 # pregueu
+r u ar VMIP2P0B # pregau
 ar uen ar VMIP3P00 # preguen
 r va ar VMII1S00 # pregava
 r ves ar VMII2S00 # pregaves

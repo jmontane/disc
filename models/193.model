@@ -5,10 +5,10 @@ r t ir VMP00SM0 # urgit
 r da ir VMP00SF0 # urgida
 r ts ir VMP00PM0 # urgits
 r des ir VMP00PF0 # urgides
-r x ir VMIP3S0V # urgix
 ir eix ir VMIP3S00 # urgeix
-r xen ir VMIP3P0V # urgixen
+r x ir VMIP3S0V # urgix
 ir eixen ir VMIP3P00 # urgeixen
+r xen ir VMIP3P0U # urgixen
 r a ir VMII3S00 # urgia
 r en ir VMII3P00 # urgien
 ir í ir VMIS3S00 # urgí

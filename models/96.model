@@ -22,10 +22,10 @@ ussar ús ussar VMIP1S0B # ALT:acamús
 ar i ar VMIP1S0N # ordeni
 ar es ar VMIP2S00 # ordenes
 r 0 ar VMIP3S00 # ordena
-r m ar VMIP1P0B # ordenam
 ar em ar VMIP1P00 # ordenem
-r u ar VMIP2P0B # ordenau
+r m ar VMIP1P0B # ordenam
 ar eu ar VMIP2P00 # ordeneu
+r u ar VMIP2P0B # ordenau
 ar en ar VMIP3P00 # ordenen
 r va ar VMII1S00 # ordenava
 r ves ar VMII2S00 # ordenaves

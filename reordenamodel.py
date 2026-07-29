@@ -56,12 +56,12 @@ def obtenir_clau_ordenacio(linea):
         ordre_pos6 = int(pos5) if pos5 in "123" else 0
         # Posició 6: S (1) primer que P (2)
         ordre_pos5 = 1 if pos6 == "S" else (2 if pos6 == "P" else 3)
-        # Posicio 8: 1, 2, 3, 4, 5, 6
-        if pos8 in "123456":
-        	ordre_pos8 = int(pos8) 
-        else:
-        	ordre_pos8 = 1 if pos8 == "C" else (2 if pos8 == "V" else 3 if pos8 == "B" else 4 if pos8 == "N" else 5 if pos8 == "W" else 6 if pos8 == "X" else 7 if pos8 == "Y" else 8 if pos8 == "Z" else 9 if pos8 == "F" else 10)
-
+        # Posicio 8: 0, 1, 2, 3, 4, 5, 6, 7
+        
+        ORDRE_POS8 = "0CVBWNAFUXYZ1234567"
+        ordre_pos8 = ORDRE_POS8.index(pos8)
+        #ordre_pos8 = ORDRE_POS8.get(pos8, 100) 
+        
         sub1, sub2, sub3 = ordre_pos5, ordre_pos6, ordre_pos8
 
     return (grup, sub1, sub2, sub3)

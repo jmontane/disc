@@ -47,10 +47,10 @@ gir ges gir VMSP2S0V # confuges
 gir gis gir VMSP2S0Y # confugis
 gir ja gir VMSP3S0V # confuja
 gir gi gir VMSP3S0Y # confugi
-gir giguem gir VMSP1P0B # confugiguem
 gir gim gir VMSP1P00 # confugim
-gir gigueu gir VMSP2P0B # confugigueu
+gir giguem gir VMSP1P0B # confugiguem
 gir giu gir VMSP2P00 # confugiu
+gir gigueu gir VMSP2P0B # confugigueu
 gir gen gir VMSP3P0V # confugen
 gir gin gir VMSP3P0Y # confugin
 gir gís gir VMSI1S01 # confugís
@@ -72,8 +72,8 @@ gir gissen gir VMSI3P05 # confugissen
 gir ig gir VMM02S00 # confuig
 gir ja gir VMM03S0V # confuja
 gir gi gir VMM03S0Y # confugi
-gir giguem gir VMM01P0B # confugiguem
 gir gim gir VMM01P00 # confugim
+gir giguem gir VMM01P0B # confugiguem
 gir giu gir VMM02P00 # confugiu
 gir gen gir VMM03P0V # confugen
 gir gin gir VMM03P0Y # confugin

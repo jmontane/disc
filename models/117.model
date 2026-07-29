@@ -43,10 +43,10 @@ ossir usses ossir VMSP2S0V # tusses
 ossir ussis ossir VMSP2S0Y # tussis
 ossir ussa ossir VMSP3S0V # tussa
 ossir ussi ossir VMSP3S0Y # tussi
-ossir ossiguem ossir VMSP1P0B # tossiguem
 ossir ossim ossir VMSP1P00 # tossim
-ossir ossigueu ossir VMSP2P0B # tossigueu
+ossir ossiguem ossir VMSP1P0B # tossiguem
 ossir ossiu ossir VMSP2P00 # tossiu
+ossir ossigueu ossir VMSP2P0B # tossigueu
 ossir ussen ossir VMSP3P0V # tussen
 ossir ussin ossir VMSP3P0Y # tussin
 ossir ossís ossir VMSI1S01 # tossís
@@ -68,8 +68,8 @@ ossir ossissen ossir VMSI3P05 # tossissen
 ossir us ossir VMM02S00 # tus
 ossir ussa ossir VMM03S0V # tussa
 ossir ussi ossir VMM03S0Y # tussi
-ossir ossiguem ossir VMM01P0B # tossiguem
 ossir ossim ossir VMM01P00 # tossim
+ossir ossiguem ossir VMM01P0B # tossiguem
 ossir ossiu ossir VMM02P00 # tossiu
 ossir ussen ossir VMM03P0V # tussen
 ossir ussin ossir VMM03P0Y # tussin

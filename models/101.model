@@ -5,9 +5,9 @@ uir uït uir VMP00SM0 # pruït
 uir uïda uir VMP00SF0 # pruïda
 uir uïts uir VMP00PM0 # pruïts
 uir uïdes uir VMP00PF0 # pruïdes
+uir uu uir VMIP1S00 # pruu
 uir uo uir VMIP1S0C # pruo
 uir uï uir VMIP1S0N # pruï
-uir uu uir VMIP1S00 # pruu
 uir us uir VMIP2S00 # prus
 uir uus uir VMIP2S00 # pruus
 uir u uir VMIP3S00 # pru
@@ -45,10 +45,10 @@ uir ues uir VMSP2S0V # prues
 uir uïs uir VMSP2S0Y # pruïs
 uir ua uir VMSP3S0V # prua
 uir uï uir VMSP3S0Y # pruï
-uir uïguem uir VMSP1P0B # pruïguem
 uir uïm uir VMSP1P00 # pruïm
-uir uïgueu uir VMSP2P0B # pruïgueu
+uir uïguem uir VMSP1P0B # pruïguem
 uir uïu uir VMSP2P00 # pruïu
+uir uïgueu uir VMSP2P0B # pruïgueu
 uir uen uir VMSP3P0V # pruen
 uir uïn uir VMSP3P0Y # pruïn
 uir uís uir VMSI1S01 # pruís
@@ -71,8 +71,8 @@ uir u uir VMM02S00 # pru
 uir uu uir VMM02S00 # pruu
 uir ua uir VMM03S0V # prua
 uir uï uir VMM03S0Y # pruï
-uir uïguem uir VMM01P0B # pruïguem
 uir uïm uir VMM01P00 # pruïm
+uir uïguem uir VMM01P0B # pruïguem
 uir uïu uir VMM02P00 # pruïu
 uir uen uir VMM03P0V # pruen
 uir uïn uir VMM03P0Y # pruïn
